@@ -1,0 +1,182 @@
+project:
+  title: "PubMed 文献晨报"
+  language: "zh-CN"
+
+ncbi:
+  tool: "pubmed_daily"
+  email: ""
+  api_key: ""
+  retmax: 80
+  request_delay_seconds: 0.34
+
+search:
+  first_window_days: 1
+  fallback_window_days: 7
+  top_n: 5
+  high_quality_score: 7
+
+  # 这是最重要的检索式。科研小白可以优先改这里。
+  # 规则：OR 表示“任意一个词出现即可”，AND 表示“两组词都要相关”。
+  pubmed_query: >
+    (
+      "environmental exposure"[Title/Abstract]
+      OR "low-dose exposure"[Title/Abstract]
+      OR "low dose exposure"[Title/Abstract]
+      OR "low-dose pollutant"[Title/Abstract]
+      OR "low dose pollutant"[Title/Abstract]
+      OR pollutant*[Title/Abstract]
+      OR toxicant*[Title/Abstract]
+      OR PFAS[Title/Abstract]
+      OR cadmium[Title/Abstract]
+      OR arsenic[Title/Abstract]
+      OR "lead exposure"[Title/Abstract]
+      OR "lead toxicity"[Title/Abstract]
+      OR "lead poisoning"[Title/Abstract]
+      OR microplastic*[Title/Abstract]
+      OR bisphenol[Title/Abstract]
+      OR phthalate*[Title/Abstract]
+    )
+    AND
+    (
+      kidney[Title/Abstract]
+      OR renal[Title/Abstract]
+      OR nephrotoxicity[Title/Abstract]
+      OR "kidney fibrosis"[Title/Abstract]
+      OR "renal fibrosis"[Title/Abstract]
+      OR "HK-2"[Title/Abstract]
+      OR organoid*[Title/Abstract]
+      OR "single-cell"[Title/Abstract]
+      OR "single cell"[Title/Abstract]
+      OR scRNA[Title/Abstract]
+      OR "single-cell omics"[Title/Abstract]
+      OR m6A[Title/Abstract]
+      OR METTL3[Title/Abstract]
+      OR PRODH[Title/Abstract]
+    )
+
+  priority_keywords:
+    "environmental exposure": 4
+    "low-dose": 4
+    "low dose": 4
+    pollutant: 3
+    toxicant: 3
+    nephrotoxicity: 5
+    kidney: 3
+    renal: 3
+    "kidney fibrosis": 5
+    "renal fibrosis": 5
+    "HK-2": 5
+    organoid: 4
+    "single-cell": 4
+    "single cell": 4
+    scRNA: 4
+    "single-cell omics": 4
+    m6A: 5
+    METTL3: 5
+    PRODH: 5
+    PFAS: 3
+    cadmium: 3
+    arsenic: 3
+    "lead exposure": 3
+    "lead toxicity": 3
+    "lead poisoning": 3
+    microplastic: 3
+    bisphenol: 3
+    phthalate: 3
+
+  categories:
+    "环境流行病学":
+      - epidemiology
+      - cohort
+      - population
+      - exposure assessment
+      - biomonitoring
+      - urine
+      - serum
+      - NHANES
+      - environmental exposure
+      - pollutant
+      - PFAS
+      - cadmium
+      - arsenic
+      - lead exposure
+      - lead toxicity
+      - lead poisoning
+      - phthalate
+      - bisphenol
+    "机制实验":
+      - mechanism
+      - pathway
+      - oxidative stress
+      - inflammation
+      - TGF
+      - EMT
+      - apoptosis
+      - autophagy
+      - mouse
+      - rat
+      - HK-2
+      - in vitro
+      - in vivo
+    "单细胞组学":
+      - single-cell
+      - single cell
+      - scRNA
+      - snRNA
+      - spatial transcriptomics
+      - transcriptome
+    "类器官":
+      - organoid
+      - kidney organoid
+      - renal organoid
+      - iPSC
+      - stem cell
+    "肾毒性":
+      - nephrotoxicity
+      - renal toxicity
+      - kidney injury
+      - AKI
+      - CKD
+      - tubular injury
+      - proximal tubule
+      - HK-2
+    "m6A-METTL3-PRODH":
+      - m6A
+      - METTL3
+      - METTL14
+      - FTO
+      - ALKBH5
+      - YTHDF
+      - PRODH
+
+  methods:
+    "环境流行病学/队列或人群数据":
+      - cohort
+      - population
+      - epidemiology
+      - NHANES
+      - biomonitoring
+    "单细胞或空间组学":
+      - single-cell
+      - single cell
+      - scRNA
+      - snRNA
+      - spatial transcriptomics
+    "类器官/干细胞模型":
+      - organoid
+      - iPSC
+      - stem cell
+    "m6A RNA修饰检测":
+      - m6A
+      - MeRIP
+      - METTL3
+      - methylation
+    "细胞与动物机制实验":
+      - HK-2
+      - in vitro
+      - in vivo
+      - mouse
+      - rat
+      - western blot
+      - qPCR
+      - immunofluorescence

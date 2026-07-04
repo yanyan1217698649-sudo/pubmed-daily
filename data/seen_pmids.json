@@ -1,0 +1,51 @@
+{
+  "recommended_pmids": {
+    "42398862": {
+      "date": "2026-07-04",
+      "title": "Urinary Volatile Organic Compound Metabolites and Depressive Symptoms Among U.S. Adults With Cardiovascular-Kidney-Metabolic Syndrome Stages 0-3: NHANES-Based Associations and In Silico Multi-Omics Insights.",
+      "score": 18,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42398862/",
+      "doi": "10.1016/j.neuro.2026.103508"
+    },
+    "42396897": {
+      "date": "2026-07-04",
+      "title": "Perfluorooctane Sulfonate Exposure and Peripheral Artery Disease: Mendelian Randomization and Integrative Multi-Omics Systems Toxicology With Machine Learning.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42396897/",
+      "doi": "10.1111/cbdd.70352"
+    },
+    "42399588": {
+      "date": "2026-07-04",
+      "title": "The application progress of organoid technology in the toxicity assessment of environmental pollutants.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42399588/",
+      "doi": "10.1007/s10565-026-10224-w"
+    },
+    "42397636": {
+      "date": "2026-07-04",
+      "title": "Potential toxic elements partitioning in soil and grains and human health risks in a CKDu-endemic region of Sri Lanka.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42397636/",
+      "doi": "10.1007/s10653-026-03318-1"
+    },
+    "42397593": {
+      "date": "2026-07-04",
+      "title": "Network toxicology and multi-omics identify potential interactions between between air pollutants and interferon-related signaling in tuberculosis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42397593/",
+      "doi": "10.1007/s11033-026-12289-6"
+    }
+  },
+  "history": [
+    {
+      "date": "2026-07-04",
+      "pmids": [
+        "42398862",
+        "42396897",
+        "42399588",
+        "42397636",
+        "42397593"
+      ]
+    }
+  ]
+}
