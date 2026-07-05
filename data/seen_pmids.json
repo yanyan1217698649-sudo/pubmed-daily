@@ -34,6 +34,13 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42397593/",
       "doi": "10.1007/s11033-026-12289-6"
+    },
+    "42400455": {
+      "date": "2026-07-05",
+      "title": "Ameliorative Effects of Ginkgo biloba on Lead Acetate-Induced Oxidative Stress and Histopathological Damages in Rat Liver, Kidney, and Testis.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400455/",
+      "doi": "10.1002/tox.70152"
     }
   },
   "history": [
@@ -45,6 +52,12 @@
         "42399588",
         "42397636",
         "42397593"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "pmids": [
+        "42400455"
       ]
     }
   ]
