@@ -41,6 +41,13 @@
       "score": 15,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400455/",
       "doi": "10.1002/tox.70152"
+    },
+    "42402419": {
+      "date": "2026-07-06",
+      "title": "Heavy metal exposure and risk of all-cause and cardiovascular mortality in population with cardiovascular-kidney-metabolic syndrome stage 0-3: a cohort study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402419/",
+      "doi": "10.1265/ehpm.26-00065"
     }
   },
   "history": [
@@ -58,6 +65,12 @@
       "date": "2026-07-05",
       "pmids": [
         "42400455"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "pmids": [
+        "42402419"
       ]
     }
   ]
