@@ -48,6 +48,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42402419/",
       "doi": "10.1265/ehpm.26-00065"
+    },
+    "42407312": {
+      "date": "2026-07-07",
+      "title": "Chronic exposure to Bisphenol AF from gestation through adulthood induces renal injury in 8-month-old mice via lipid metabolism dysregulation and ferroptosis.",
+      "score": 22,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42407312/",
+      "doi": "10.1016/j.jhazmat.2026.142882"
     }
   },
   "history": [
@@ -71,6 +78,12 @@
       "date": "2026-07-06",
       "pmids": [
         "42402419"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "pmids": [
+        "42407312"
       ]
     }
   ]
