@@ -55,6 +55,34 @@
       "score": 22,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42407312/",
       "doi": "10.1016/j.jhazmat.2026.142882"
+    },
+    "42413735": {
+      "date": "2026-07-08",
+      "title": "Bisphenol a exposure induces low back pain associated with intervertebral disc degeneration via BIRC3-mediated nucleus pulposus cell senescence.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42413735/",
+      "doi": "10.1016/j.taap.2026.117938"
+    },
+    "42414864": {
+      "date": "2026-07-08",
+      "title": "Computational Toxicology Prioritization of CYP3A4 and DPP7 as Candidate Triclosan-Relevant Molecular Targets in Ulcerative Colitis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42414864/",
+      "doi": "10.1080/15376516.2026.2698865"
+    },
+    "42416385": {
+      "date": "2026-07-08",
+      "title": "Joint exposure to plasma heavy metals and the risk of kidney graft failure.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42416385/",
+      "doi": "10.3389/ti.2026.16919"
+    },
+    "42416905": {
+      "date": "2026-07-08",
+      "title": "Association between air pollution and incident cardiovascular diseases among a population with cardiovascular-kidney-metabolic syndrome stages 0-3: the first evidence from the China Health and Retirement Longitudinal Study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42416905/",
+      "doi": "10.3389/fendo.2026.1852623"
     }
   },
   "history": [
@@ -84,6 +112,15 @@
       "date": "2026-07-07",
       "pmids": [
         "42407312"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "pmids": [
+        "42413735",
+        "42414864",
+        "42416385",
+        "42416905"
       ]
     }
   ]
