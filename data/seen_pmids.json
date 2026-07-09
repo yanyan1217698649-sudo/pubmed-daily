@@ -83,6 +83,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42416905/",
       "doi": "10.3389/fendo.2026.1852623"
+    },
+    "42418064": {
+      "date": "2026-07-09",
+      "title": "Exploring the mechanism by which triphenyl phosphate promotes malignant phenotypes in bladder and kidney cancer through MMP9 based on bioinformatics analysis and experimental validation.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42418064/",
+      "doi": "10.1007/s10238-026-02159-7"
+    },
+    "42418975": {
+      "date": "2026-07-09",
+      "title": "Plasticizer-related toxicogenomic signatures in gestational diabetes: Mendelian randomization, placental single-cell transcriptomics and trophoblast validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42418975/",
+      "doi": "10.1016/j.ecoenv.2026.120486"
+    },
+    "42422268": {
+      "date": "2026-07-09",
+      "title": "Pediatric acute liver failure in a child with arsenic toxicity and underlying rotor syndrome.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42422268/",
+      "doi": "10.1093/omcr/omag111"
     }
   },
   "history": [
@@ -121,6 +142,14 @@
         "42414864",
         "42416385",
         "42416905"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "pmids": [
+        "42418064",
+        "42418975",
+        "42422268"
       ]
     }
   ]
