@@ -118,6 +118,20 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42428344/",
       "doi": "10.3892/ol.2026.15737"
+    },
+    "42431064": {
+      "date": "2026-07-11",
+      "title": "An aquatic probiotic alleviates lead toxicity in grass carp (Ctenopharyngodon idella) via improved intestinal barrier function and reduced Pb bioaccumulation.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42431064/",
+      "doi": "10.1016/j.ecoenv.2026.120491"
+    },
+    "42430007": {
+      "date": "2026-07-11",
+      "title": "Environmental influences on macrophage epigenetics and trained immunity: a review.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430007/",
+      "doi": "10.1007/s11033-026-12318-4"
     }
   },
   "history": [
@@ -171,6 +185,13 @@
       "pmids": [
         "42425288",
         "42428344"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "pmids": [
+        "42431064",
+        "42430007"
       ]
     }
   ]
