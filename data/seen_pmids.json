@@ -132,6 +132,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42430007/",
       "doi": "10.1007/s11033-026-12318-4"
+    },
+    "42436292": {
+      "date": "2026-07-12",
+      "title": "Long-term exposure to air pollution and chronic kidney disease incidence in adults: The Danish Nurse Cohort.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42436292/",
+      "doi": "10.1038/s41370-026-00943-x"
+    },
+    "42435052": {
+      "date": "2026-07-12",
+      "title": "Integrative multi-omics identifies CYP1B1 as a candidate molecular link between toxicant exposure and ferroptosis-related epithelial stress in COPD.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435052/",
+      "doi": "10.1007/s00011-026-02294-7"
+    },
+    "42435682": {
+      "date": "2026-07-12",
+      "title": "Organ-specific carcinogenic risk heterogeneity of perfluorooctanoic acid exposure: Global evidence from bibliometric mapping, meta-analysis, and nonlinear dose-response modeling.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435682/",
+      "doi": "10.1016/j.jhazmat.2026.142831"
     }
   },
   "history": [
@@ -192,6 +213,14 @@
       "pmids": [
         "42431064",
         "42430007"
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "pmids": [
+        "42436292",
+        "42435052",
+        "42435682"
       ]
     }
   ]
