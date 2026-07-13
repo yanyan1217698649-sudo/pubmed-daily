@@ -153,6 +153,20 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435682/",
       "doi": "10.1016/j.jhazmat.2026.142831"
+    },
+    "42438792": {
+      "date": "2026-07-13",
+      "title": "Spatiotemporal Heterogeneity and the Impact of PM1 and Nitrogen Oxides on Chronic Kidney Disease Mortality in 39 European Countries (1990-2022): A Multi-Model Analysis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438792/",
+      "doi": "10.2147/IJNRD.S609735"
+    },
+    "42438480": {
+      "date": "2026-07-13",
+      "title": "Multi-omics integration deciphers arsenic-induced multi-organ toxicity and the novel ferroptosis axis.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438480/",
+      "doi": "10.1016/j.toxrep.2026.102308"
     }
   },
   "history": [
@@ -221,6 +235,13 @@
         "42436292",
         "42435052",
         "42435682"
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "pmids": [
+        "42438792",
+        "42438480"
       ]
     }
   ]
