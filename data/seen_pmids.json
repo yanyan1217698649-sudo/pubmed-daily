@@ -167,6 +167,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438480/",
       "doi": "10.1016/j.toxrep.2026.102308"
+    },
+    "42442276": {
+      "date": "2026-07-14",
+      "title": "Maternal di-n-butyl phthalate exposure promotes renal fibrosis in IUGR offspring rats via HBB downregulation and Nrf2 pathway activation.",
+      "score": 27,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42442276/",
+      "doi": "10.1016/j.ecoenv.2026.120449"
     }
   },
   "history": [
@@ -242,6 +249,12 @@
       "pmids": [
         "42438792",
         "42438480"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "pmids": [
+        "42442276"
       ]
     }
   ]
