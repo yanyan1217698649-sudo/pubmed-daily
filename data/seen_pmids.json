@@ -174,6 +174,41 @@
       "score": 27,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42442276/",
       "doi": "10.1016/j.ecoenv.2026.120449"
+    },
+    "42446780": {
+      "date": "2026-07-15",
+      "title": "Comparative pre- and post-treatment effects of aqueous Zingiber officinale Lsfunction in wistar rats: insights into NF-κB, Nrf2, and caspase-3 pathways.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42446780/",
+      "doi": "10.1007/s10735-026-10900-5"
+    },
+    "42452391": {
+      "date": "2026-07-15",
+      "title": "Mid-Term Exposure to Air Pollution and Acute Kidney Injury Incidence: A 10-Year Study in Eastern Poland.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452391/",
+      "doi": "10.3390/jcm15134929"
+    },
+    "42446666": {
+      "date": "2026-07-15",
+      "title": "Comparative in vitro study of structure related uptake of ten perfluoroalkyl substances by human and rat renal transporters.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42446666/",
+      "doi": "10.1007/s00204-026-04508-7"
+    },
+    "42450258": {
+      "date": "2026-07-15",
+      "title": "Differential Sensitivity of Endocrine and Non-Endocrine Tissues to Cadmium-Induced Lipid Peroxidation and the Protective Role of Melatonin.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42450258/",
+      "doi": "10.3390/ijms27135991"
+    },
+    "42445137": {
+      "date": "2026-07-15",
+      "title": "Organ-specific redox and trace element modulation and hematological adaptation following hyperbaric oxygenation and physical activity in rats.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42445137/",
+      "doi": "10.3389/fmed.2026.1820821"
     }
   },
   "history": [
@@ -255,6 +290,16 @@
       "date": "2026-07-14",
       "pmids": [
         "42442276"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "pmids": [
+        "42446780",
+        "42452391",
+        "42446666",
+        "42450258",
+        "42445137"
       ]
     }
   ]
