@@ -209,6 +209,20 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42445137/",
       "doi": "10.3389/fmed.2026.1820821"
+    },
+    "42455828": {
+      "date": "2026-07-16",
+      "title": "Concentrations of essential and non-essential elements in eastern North Pacific killer whales (Orcinus orca).",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42455828/",
+      "doi": "10.1371/journal.pone.0353196"
+    },
+    "42450113": {
+      "date": "2026-07-16",
+      "title": "Serum Copper-to-Zinc Ratio and Oxidative Stress Are Associated with Anemia in Older Adults with Cardiovascular-Kidney-Metabolic Syndrome.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42450113/",
+      "doi": "10.3390/ijms27135840"
     }
   },
   "history": [
@@ -300,6 +314,13 @@
         "42446666",
         "42450258",
         "42445137"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "pmids": [
+        "42455828",
+        "42450113"
       ]
     }
   ]
