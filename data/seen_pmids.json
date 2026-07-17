@@ -223,6 +223,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42450113/",
       "doi": "10.3390/ijms27135840"
+    },
+    "42463899": {
+      "date": "2026-07-17",
+      "title": "Transcriptional regulation of the main olfactory epithelium by environmental olfactory exposures.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463899/",
+      "doi": "10.1038/s41598-026-62127-9"
+    },
+    "42463785": {
+      "date": "2026-07-17",
+      "title": "Integrated metabolomic and histopathological analysis of renal alterations in mice following chronic bisphenol A (BPA) exposure.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463785/",
+      "doi": "10.1038/s41598-026-62758-y"
+    },
+    "42462996": {
+      "date": "2026-07-17",
+      "title": "Comprehensive analysis of the association between perfluorooctanoic acid exposure and osteosarcoma progression.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462996/",
+      "doi": "10.1016/j.fct.2026.116274"
     }
   },
   "history": [
@@ -321,6 +342,14 @@
       "pmids": [
         "42455828",
         "42450113"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "pmids": [
+        "42463899",
+        "42463785",
+        "42462996"
       ]
     }
   ]
