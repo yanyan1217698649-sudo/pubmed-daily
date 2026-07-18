@@ -244,6 +244,13 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462996/",
       "doi": "10.1016/j.fct.2026.116274"
+    },
+    "42469853": {
+      "date": "2026-07-18",
+      "title": "Hantavirus preparedness among undergraduate nursing students in the United Arab Emirates: a cross-sectional study of knowledge, risk perception and preventive practice.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42469853/",
+      "doi": "10.1186/s12912-026-05015-x"
     }
   },
   "history": [
@@ -350,6 +357,12 @@
         "42463899",
         "42463785",
         "42462996"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "pmids": [
+        "42469853"
       ]
     }
   ]
