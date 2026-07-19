@@ -251,6 +251,13 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42469853/",
       "doi": "10.1186/s12912-026-05015-x"
+    },
+    "42471526": {
+      "date": "2026-07-19",
+      "title": "Integration of network toxicology, machine learning and single-cell sequencing identifies candidate molecular links between air pollutants and hepatocellular carcinoma.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471526/",
+      "doi": "10.1007/s12672-026-05569-x"
     }
   },
   "history": [
@@ -363,6 +370,12 @@
       "date": "2026-07-18",
       "pmids": [
         "42469853"
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "pmids": [
+        "42471526"
       ]
     }
   ]
