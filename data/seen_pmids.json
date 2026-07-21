@@ -258,6 +258,41 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471526/",
       "doi": "10.1007/s12672-026-05569-x"
+    },
+    "42474835": {
+      "date": "2026-07-21",
+      "title": "4-Phenylbutyric acid attenuates endoplasmic reticulum stress-mediated polystyrene microplastic-induced nephrotoxicity in Wistar rats.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42474835/",
+      "doi": "10.1007/s11033-026-12433-2"
+    },
+    "42474879": {
+      "date": "2026-07-21",
+      "title": "Cadmium Exposure and Osteoporosis: A Spatially Contextualized Adverse Outcome Pathway Integrating Epidemiology, Toxicogenomics and Transcriptomics.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42474879/",
+      "doi": "10.1007/s12011-026-05249-5"
+    },
+    "42476233": {
+      "date": "2026-07-21",
+      "title": "Bisphenol A drives the comorbidity of non-alcoholic fatty liver disease and osteoarthritis by targeting RHOB: Integrated multi-omics, single-cell analysis, and experimental validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42476233/",
+      "doi": "10.1016/j.exger.2026.113242"
+    },
+    "42474018": {
+      "date": "2026-07-21",
+      "title": "Integrated Multi-Omics Analysis of 2,3,7,8-TCDD-induced Renal Cell Carcinoma Reveals Core Targets and Mechanistic Pathways.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42474018/",
+      "doi": "10.2174/0109298673463622260531194726"
+    },
+    "42475953": {
+      "date": "2026-07-21",
+      "title": "Phthalate exposure in Korea: Environmental contamination, human biomonitoring, health effects, and regulatory responses.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42475953/",
+      "doi": "10.1016/j.ecoenv.2026.120520"
     }
   },
   "history": [
@@ -376,6 +411,16 @@
       "date": "2026-07-19",
       "pmids": [
         "42471526"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "pmids": [
+        "42474835",
+        "42474879",
+        "42476233",
+        "42474018",
+        "42475953"
       ]
     }
   ]
