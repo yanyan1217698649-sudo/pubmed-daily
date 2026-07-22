@@ -293,6 +293,13 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42475953/",
       "doi": "10.1016/j.ecoenv.2026.120520"
+    },
+    "42480139": {
+      "date": "2026-07-22",
+      "title": "Perfluorobutanesulfonic acid (PFBS) elicits compartment-specific divergent responses in prostate homeostasis: Wnt/β-catenin oncogenic activation in epithelial cells versus mitochondria-mediated ferroptosis susceptibility in stromal cells.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42480139/",
+      "doi": "10.1016/j.ecoenv.2026.120519"
     }
   },
   "history": [
@@ -421,6 +428,12 @@
         "42476233",
         "42474018",
         "42475953"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "pmids": [
+        "42480139"
       ]
     }
   ]
