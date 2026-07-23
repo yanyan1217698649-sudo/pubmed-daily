@@ -300,6 +300,41 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42480139/",
       "doi": "10.1016/j.ecoenv.2026.120519"
+    },
+    "42484788": {
+      "date": "2026-07-23",
+      "title": "Protective effects of thymoquinone against hexavalent chromium-ınduced nephrotoxicity: a multiparametric evaluation of oxidative stress, ınflammation, ferroptosis- and apoptosis-related markers.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42484788/",
+      "doi": "10.1007/s11010-026-05646-3"
+    },
+    "42485721": {
+      "date": "2026-07-23",
+      "title": "High-throughput toxicological profiling and ToxPi-based prioritization of chemical migrants from recycled paper used in food contact materials.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42485721/",
+      "doi": "10.1016/j.jhazmat.2026.142920"
+    },
+    "42486287": {
+      "date": "2026-07-23",
+      "title": "PFOA promotes PMAIP1-MCL1 apoptotic vulnerability within a BHLHE41-associated macrophage regulatory architecture in atherosclerosis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486287/",
+      "doi": "10.1016/j.cbi.2026.112265"
+    },
+    "42486290": {
+      "date": "2026-07-23",
+      "title": "Associations of drinking water and urinary uranium with incident diabetes among U.S. adults: The Multi-Ethnic Study of Atherosclerosis and the Strong Heart Family Study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486290/",
+      "doi": "10.1016/j.envres.2026.125295"
+    },
+    "42482197": {
+      "date": "2026-07-23",
+      "title": "Short-term exposure to ambient air pollutants increases the mortality risk of chronic kidney disease: a time-stratified case-crossover study in Zhejiang Province.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42482197/",
+      "doi": "10.1186/s12882-026-05103-9"
     }
   },
   "history": [
@@ -434,6 +469,16 @@
       "date": "2026-07-22",
       "pmids": [
         "42480139"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "pmids": [
+        "42484788",
+        "42485721",
+        "42486287",
+        "42486290",
+        "42482197"
       ]
     }
   ]
