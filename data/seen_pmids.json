@@ -335,6 +335,41 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42482197/",
       "doi": "10.1186/s12882-026-05103-9"
+    },
+    "42489718": {
+      "date": "2026-07-24",
+      "title": "Integrative multi-omics reveals NQO1-mediated airway epithelial injury as a key mechanism of bisphenol A-induced COPD.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489718/",
+      "doi": "10.1007/s00210-026-05728-5"
+    },
+    "42494487": {
+      "date": "2026-07-24",
+      "title": "Single-nucleus RNA-seq and ATAC-seq analyses provide molecular insights into cadmium-stress response in alfalfa roots.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42494487/",
+      "doi": "10.1093/hr/uhag117"
+    },
+    "42491390": {
+      "date": "2026-07-24",
+      "title": "Using Dose-Additive Models To Predict Exposure and Effects of a Military Site Risk-Relevant PFAS Mixture in Mice.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42491390/",
+      "doi": "10.1021/acsenvironau.5c00241"
+    },
+    "42491343": {
+      "date": "2026-07-24",
+      "title": "Gut and Glomerular Barriers Determine Nanoplastic Fate and Systemic Impact.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42491343/",
+      "doi": "10.1021/acsenvironau.6c00069"
+    },
+    "42491305": {
+      "date": "2026-07-24",
+      "title": "Sublethal oxytetracycline and copper exposure alters rRNA gene copy number, expression, and intragenomic polymorphism in ciliates.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42491305/",
+      "doi": "10.1016/j.crmicr.2026.100643"
     }
   },
   "history": [
@@ -479,6 +514,16 @@
         "42486287",
         "42486290",
         "42482197"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "pmids": [
+        "42489718",
+        "42494487",
+        "42491390",
+        "42491343",
+        "42491305"
       ]
     }
   ]
