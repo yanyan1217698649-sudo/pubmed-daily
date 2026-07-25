@@ -370,6 +370,34 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42491305/",
       "doi": "10.1016/j.crmicr.2026.100643"
+    },
+    "42497931": {
+      "date": "2026-07-25",
+      "title": "Integrative network toxicology identifies SLC5A2 as a key mediator of tetrasodium pyrophosphate-induced renal fibrosis.",
+      "score": 20,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42497931/",
+      "doi": "10.1016/j.fct.2026.116294"
+    },
+    "42498637": {
+      "date": "2026-07-25",
+      "title": "Molecular mechanisms of heavy metal-induced cancer: Insights from animal models and human implications.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42498637/",
+      "doi": "10.1177/07482337261469287"
+    },
+    "42499143": {
+      "date": "2026-07-25",
+      "title": "Heavy metal contamination in pharmaceuticals: A narrative review of prevalence, health risks, and regulatory gaps in Nigeria.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42499143/",
+      "doi": "10.1177/09246479261471793"
+    },
+    "42496790": {
+      "date": "2026-07-25",
+      "title": "The toxic footprint of lead exposure: oxido-inflammatory biomarkers in urban populations of Niger Delta, Nigeria.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496790/",
+      "doi": "10.1007/s10534-026-00864-0"
     }
   },
   "history": [
@@ -524,6 +552,15 @@
         "42491390",
         "42491343",
         "42491305"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "pmids": [
+        "42497931",
+        "42498637",
+        "42499143",
+        "42496790"
       ]
     }
   ]
