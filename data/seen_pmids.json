@@ -398,6 +398,27 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42496790/",
       "doi": "10.1007/s10534-026-00864-0"
+    },
+    "42501684": {
+      "date": "2026-07-26",
+      "title": "Cadmium induces renal injury via a BMAL1-dependent inflammatory and senescence cascade: Attenuation by Lycium barbarum polysaccharide and melatonin.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501684/",
+      "doi": "10.1016/j.ecoenv.2026.120563"
+    },
+    "42501686": {
+      "date": "2026-07-26",
+      "title": "Integrated multi-omics analysis suggests a potential mechanism of DEHP-induced monocyte infiltration in MASH via the FOS-CCL3/4 axis.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501686/",
+      "doi": "10.1016/j.ecoenv.2026.120551"
+    },
+    "42501774": {
+      "date": "2026-07-26",
+      "title": "DINCH Exposure Contributes to Osteoarthritis Pathogenesis via TSPO-Mediated Chondrotoxicity: Evidence from In Silico Prediction to Experimental Validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501774/",
+      "doi": "10.1016/j.cbi.2026.112266"
     }
   },
   "history": [
@@ -561,6 +582,14 @@
         "42498637",
         "42499143",
         "42496790"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "pmids": [
+        "42501684",
+        "42501686",
+        "42501774"
       ]
     }
   ]
