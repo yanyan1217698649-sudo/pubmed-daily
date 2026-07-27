@@ -419,6 +419,13 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501774/",
       "doi": "10.1016/j.cbi.2026.112266"
+    },
+    "42503588": {
+      "date": "2026-07-27",
+      "title": "Oridonin Protects Mice Against Cadmium-induced Kidney Injury by Inhibiting Ferroptosis via SIRT1 Regulation.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42503588/",
+      "doi": "10.1007/s12011-026-05228-w"
     }
   },
   "history": [
@@ -590,6 +597,12 @@
         "42501684",
         "42501686",
         "42501774"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "pmids": [
+        "42503588"
       ]
     }
   ]
