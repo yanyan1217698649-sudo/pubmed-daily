@@ -426,6 +426,41 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42503588/",
       "doi": "10.1007/s12011-026-05228-w"
+    },
+    "42509745": {
+      "date": "2026-07-28",
+      "title": "Berberine Attenuates Cadmium-Induced Nephrotoxicity by Suppressing LDHA-Mediated Glycolytic Reprogramming and Restoring Mitochondrial TCA Cycle Metabolism.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42509745/",
+      "doi": "10.3390/biom16070951"
+    },
+    "42509732": {
+      "date": "2026-07-28",
+      "title": "Association of F-53B Nephrotoxicity with Oxidative Stress-Mediated Mitochondrial Dysfunction and Altered Autophagy-Apoptosis Crosstalk.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42509732/",
+      "doi": "10.3390/biom16070938"
+    },
+    "42512951": {
+      "date": "2026-07-28",
+      "title": "Phenolic Endocrine-Disrupting Chemical Exposure and Systemic Biomarker Variability in Patients with Lung Cancer.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42512951/",
+      "doi": "10.3390/medicina62071409"
+    },
+    "42514680": {
+      "date": "2026-07-28",
+      "title": "Bisphenol F-Associated Repeated Breeding Syndrome in Cows: Epidemiological Evidence and Protective Effects of Phillyrin Against Granulosa Cell Injury.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42514680/",
+      "doi": "10.3390/vetsci13070670"
+    },
+    "42510548": {
+      "date": "2026-07-28",
+      "title": "Nano-Molybdenum Disulfide Enhances Antioxidant Defense and Aroma Formation in Fragrant Rice Under Cadmium Stress via Modulation of 2-Acetyl-1-Pyrroline Biosynthesis.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42510548/",
+      "doi": "10.3390/antiox15070817"
     }
   },
   "history": [
@@ -603,6 +638,16 @@
       "date": "2026-07-27",
       "pmids": [
         "42503588"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "pmids": [
+        "42509745",
+        "42509732",
+        "42512951",
+        "42514680",
+        "42510548"
       ]
     }
   ]
