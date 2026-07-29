@@ -461,6 +461,41 @@
       "score": 11,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42510548/",
       "doi": "10.3390/antiox15070817"
+    },
+    "42517613": {
+      "date": "2026-07-29",
+      "title": "Di(2-Ethylhexyl) Phthalate Exposure and Risk of Diabetic Kidney Disease: Epidemiological Association and Mechanistic Insights.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42517613/",
+      "doi": "10.1002/dmrr.70209"
+    },
+    "42515120": {
+      "date": "2026-07-29",
+      "title": "Neurotoxic Effects of Aromatic Organophosphate Flame Retardants Revealed by Lipidomic Analysis in Human Brain Organoids.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42515120/",
+      "doi": "10.3390/toxics14070555"
+    },
+    "42515181": {
+      "date": "2026-07-29",
+      "title": "From Environmental Evidence to Biomarker Selection: A Structured Decision-Support Process for Human Biomonitoring Studies in Contaminated Sites.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42515181/",
+      "doi": "10.3390/toxics14070616"
+    },
+    "42508794": {
+      "date": "2026-07-29",
+      "title": "Synergistic neurotoxicity of mono-butyl phthalate and bisphenol A at environmentally relevant concentrations: Multi-Omics evidence for ferroptosis via glutathione metabolism disruption in neural stem cells and brain organoids.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42508794/",
+      "doi": "10.1016/j.cbi.2026.112271"
+    },
+    "42510891": {
+      "date": "2026-07-29",
+      "title": "Fenugreek Seed Powder Attenuates Lead-Induced Hepatic Injury and Renal Dysfunction in Male Mice Co-Exposed to Escalating Lead Doses.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42510891/",
+      "doi": "10.3390/cimb48070650"
     }
   },
   "history": [
@@ -648,6 +683,16 @@
         "42512951",
         "42514680",
         "42510548"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "pmids": [
+        "42517613",
+        "42515120",
+        "42515181",
+        "42508794",
+        "42510891"
       ]
     }
   ]
