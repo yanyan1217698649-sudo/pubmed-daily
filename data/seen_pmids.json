@@ -496,6 +496,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42510891/",
       "doi": "10.3390/cimb48070650"
+    },
+    "42526577": {
+      "date": "2026-07-30",
+      "title": "Chronic paternal exposure to low-dose OBS reprograms progeny's intestinal cholesterol metabolism and increases IBD susceptibility.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42526577/",
+      "doi": "10.1016/j.envpol.2026.128846"
+    },
+    "42525627": {
+      "date": "2026-07-30",
+      "title": "Longitudinal changes in laboratory parameters and QTc during isavuconazole therapy in Japanese patients with hematologic malignancies.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525627/",
+      "doi": "10.1371/journal.pone.0354816"
+    },
+    "42524077": {
+      "date": "2026-07-30",
+      "title": "Hidden Hazards: Blood Lead and Cadmium Levels Associated with Biochemical and Hematological Markers.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42524077/",
+      "doi": "10.34172/apb.025.46563"
     }
   },
   "history": [
@@ -693,6 +714,14 @@
         "42515181",
         "42508794",
         "42510891"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "pmids": [
+        "42526577",
+        "42525627",
+        "42524077"
       ]
     }
   ]
