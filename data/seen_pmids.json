@@ -517,6 +517,41 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42524077/",
       "doi": "10.34172/apb.025.46563"
+    },
+    "42531719": {
+      "date": "2026-07-31",
+      "title": "Dose-dependent hepatorenal genotoxicity induced by polyethylene microplastics: Evidence from comet assay and apoptotic pathway activation.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531719/",
+      "doi": "10.1016/j.tice.2026.103816"
+    },
+    "42531744": {
+      "date": "2026-07-31",
+      "title": "A comprehensive investigation into the effect of bisphenol A on the expression of drug-metabolizing enzymes: Consequences for endogenous metabolites and xenobiotic pharmacokinetics.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531744/",
+      "doi": "10.1016/j.dmd.2026.100361"
+    },
+    "42530798": {
+      "date": "2026-07-31",
+      "title": "Polyamide-66 microplastics and early-onset ischemic stroke: a systems toxicology, multi-omics, and molecular dynamics simulation analysis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42530798/",
+      "doi": "10.1007/s11030-026-11672-6"
+    },
+    "42531928": {
+      "date": "2026-07-31",
+      "title": "High-content imaging driven algal phenotypes enable precise multilevel discrimination of heavy metal stress.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531928/",
+      "doi": "10.1016/j.jhazmat.2026.143114"
+    },
+    "42533197": {
+      "date": "2026-07-31",
+      "title": "Fermentation Status Dictates Organ-Selective Protection of a Millet-Based Dairy Beverage Against Sub-Chronic Lead Toxicity in Rats.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533197/",
+      "doi": "10.1007/s12011-026-05253-9"
     }
   },
   "history": [
@@ -722,6 +757,16 @@
         "42526577",
         "42525627",
         "42524077"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "pmids": [
+        "42531719",
+        "42531744",
+        "42530798",
+        "42531928",
+        "42533197"
       ]
     }
   ]
