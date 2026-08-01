@@ -552,6 +552,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533197/",
       "doi": "10.1007/s12011-026-05253-9"
+    },
+    "42535947": {
+      "date": "2026-08-01",
+      "title": "Glyphosate's role in renal tubular injury at low exposure levels: evidence from a patient cohort.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42535947/",
+      "doi": "10.1080/0886022X.2026.2707684"
+    },
+    "42537208": {
+      "date": "2026-08-01",
+      "title": "Microplastics in Urinary Calculi: Evidence from Human Urinary Stones.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42537208/",
+      "doi": "10.1097/JU.0000000000005237"
+    },
+    "42532297": {
+      "date": "2026-08-01",
+      "title": "Chronic Toxic Effects of BDE-47 in C3H/He Mice Following Oral Exposure.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42532297/",
+      "doi": "10.1016/j.fct.2026.116306"
     }
   },
   "history": [
@@ -767,6 +788,14 @@
         "42530798",
         "42531928",
         "42533197"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "pmids": [
+        "42535947",
+        "42537208",
+        "42532297"
       ]
     }
   ]
