@@ -573,6 +573,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42532297/",
       "doi": "10.1016/j.fct.2026.116306"
+    },
+    "42541405": {
+      "date": "2026-08-02",
+      "title": "Protective Effects of Bee Venom (Apis mellifera) Against Cadmium-Induced Hepatorenal Toxicity, Oxidative Stress, and Anxiety-Like Behavior in Rats.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42541405/",
+      "doi": "10.1002/tox.70153"
+    },
+    "42540965": {
+      "date": "2026-08-02",
+      "title": "Identifying heat-related diagnoses through linked electronic health record and environmental data: a heat-wide association study conducted in Chicago.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42540965/",
+      "doi": "10.23889/ijpds.v11i5.3706"
+    },
+    "42542433": {
+      "date": "2026-08-02",
+      "title": "Stable C and N isotopes and five trace metal concentrations in the tissues of four odontocetes around Taiwan, Northwestern Pacific Ocean.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542433/",
+      "doi": "10.1016/j.ecoenv.2026.120422"
     }
   },
   "history": [
@@ -796,6 +817,14 @@
         "42535947",
         "42537208",
         "42532297"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "pmids": [
+        "42541405",
+        "42540965",
+        "42542433"
       ]
     }
   ]
