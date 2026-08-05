@@ -594,6 +594,20 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542433/",
       "doi": "10.1016/j.ecoenv.2026.120422"
+    },
+    "42551918": {
+      "date": "2026-08-05",
+      "title": "Environmental Contaminant Auramine O, a Synthetic Dye Exposure Induces Multiorgan Toxicity via Inflammatory and Apoptotic Pathways in Sprague-Dawley Rats.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551918/",
+      "doi": "10.1002/jat.70379"
+    },
+    "42551371": {
+      "date": "2026-08-05",
+      "title": "Ozone-induced renal homeostasis disruption in diabetic mice: The role of Th17/Treg imbalance and drug intervention.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551371/",
+      "doi": "10.1016/j.jhazmat.2026.143029"
     }
   },
   "history": [
@@ -825,6 +839,13 @@
         "42541405",
         "42540965",
         "42542433"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "pmids": [
+        "42551918",
+        "42551371"
       ]
     }
   ]
