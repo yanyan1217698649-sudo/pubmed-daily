@@ -608,6 +608,20 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551371/",
       "doi": "10.1016/j.jhazmat.2026.143029"
+    },
+    "42554815": {
+      "date": "2026-08-06",
+      "title": "Di(2-ethylhexyl) Phthalate (DEHP) Exposure Exacerbates Subarachnoid Hemorrhage by Inducing Astrocyte-Mediated Inflammation and Oxidative Stress through the ADORA1/PI3K-Akt/MAPK Axis.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42554815/",
+      "doi": "10.1021/acs.jafc.6c05550"
+    },
+    "42552472": {
+      "date": "2026-08-06",
+      "title": "Integrative Multi-Omics Analysis Identifies Key Molecular Targets Linking Bisphenol A Exposure to Gestational Diabetes Mellitus.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552472/",
+      "doi": "10.1007/s43032-026-02170-z"
     }
   },
   "history": [
@@ -846,6 +860,13 @@
       "pmids": [
         "42551918",
         "42551371"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "pmids": [
+        "42554815",
+        "42552472"
       ]
     }
   ]
