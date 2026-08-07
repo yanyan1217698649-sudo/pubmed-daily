@@ -622,6 +622,41 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552472/",
       "doi": "10.1007/s43032-026-02170-z"
+    },
+    "42558352": {
+      "date": "2026-08-07",
+      "title": "Diagnostic performance of serum vitamin D metabolites and 14 inorganic elements in early prediction of kidney neoplasm.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42558352/",
+      "doi": "10.3389/fonc.2026.1884903"
+    },
+    "42558478": {
+      "date": "2026-08-07",
+      "title": "Exploring cadmium exposure as a contributor to male infertility: insights from the relationship between environmental pollutants and the male reproductive system.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42558478/",
+      "doi": "10.3389/fendo.2026.1819705"
+    },
+    "42560444": {
+      "date": "2026-08-07",
+      "title": "From Environmental Lead Exposure to Colorectal Cancer: Integrated Transcriptomic and Genetic Analyses Identify HMOX1 as a Prioritized Candidate.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560444/",
+      "doi": "10.1007/s12011-026-05277-1"
+    },
+    "42562661": {
+      "date": "2026-08-07",
+      "title": "From static to dynamic SPECT/CT: A systematic review of clinical applications and perspectives.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42562661/",
+      "doi": "10.1053/j.semnuclmed.2026.07.011"
+    },
+    "42556040": {
+      "date": "2026-08-07",
+      "title": "High-throughput single-cell metabolomics to reveal the hepatotoxicity of 77PDQ exposure in mice.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556040/",
+      "doi": "10.1016/j.talanta.2026.130393"
     }
   },
   "history": [
@@ -867,6 +902,16 @@
       "pmids": [
         "42554815",
         "42552472"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "pmids": [
+        "42558352",
+        "42558478",
+        "42560444",
+        "42562661",
+        "42556040"
       ]
     }
   ]
