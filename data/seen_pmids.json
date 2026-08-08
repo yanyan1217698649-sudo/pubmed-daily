@@ -657,6 +657,20 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556040/",
       "doi": "10.1016/j.talanta.2026.130393"
+    },
+    "42566621": {
+      "date": "2026-08-08",
+      "title": "Veno-venous extracorporeal membrane oxygenation support for severe leptospirosis complicated by pulmonary hemorrhage and refractory acute respiratory distress syndrome: A case report and literature review.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566621/",
+      "doi": "10.1097/MD.0000000000050167"
+    },
+    "42565574": {
+      "date": "2026-08-08",
+      "title": "Effects of short-term air pollution exposure on respiratory infection-related healthcare burden in kidney transplant recipients.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42565574/",
+      "doi": "10.11817/j.issn.1672-7347.2026.260089"
     }
   },
   "history": [
@@ -912,6 +926,13 @@
         "42560444",
         "42562661",
         "42556040"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "pmids": [
+        "42566621",
+        "42565574"
       ]
     }
   ]
