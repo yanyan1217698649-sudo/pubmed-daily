@@ -671,6 +671,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42565574/",
       "doi": "10.11817/j.issn.1672-7347.2026.260089"
+    },
+    "42568577": {
+      "date": "2026-08-09",
+      "title": "The airway epithelial-immune axis: mechanisms and therapeutic implications.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42568577/",
+      "doi": "10.3389/fimmu.2026.1891760"
     }
   },
   "history": [
@@ -933,6 +940,12 @@
       "pmids": [
         "42566621",
         "42565574"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "pmids": [
+        "42568577"
       ]
     }
   ]
