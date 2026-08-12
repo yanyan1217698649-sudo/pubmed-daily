@@ -706,6 +706,27 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42574534/",
       "doi": "10.3791/70531"
+    },
+    "42580257": {
+      "date": "2026-08-12",
+      "title": "Resveratrol attenuates Cr(VI)-induced ferroptosis through SIRT3 activation in nephrocytes and in vivo.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580257/",
+      "doi": "10.1016/j.ecoenv.2026.120646"
+    },
+    "42579053": {
+      "date": "2026-08-12",
+      "title": "Rare Earth Element and Yttrium Fingerprints in Human Kidney Stones: Tracing Environmental Exposure and Pathological Mineralization Pathway.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579053/",
+      "doi": "10.1007/s12011-026-05278-0"
+    },
+    "42577763": {
+      "date": "2026-08-12",
+      "title": "Bovine Milk Exosomes as Natural Cytoprotective Nanoplatforms Against Lead-Induced Toxicity.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577763/",
+      "doi": "10.2147/BTT.S571251"
     }
   },
   "history": [
@@ -983,6 +1004,14 @@
         "42575853",
         "42575350",
         "42574534"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "pmids": [
+        "42580257",
+        "42579053",
+        "42577763"
       ]
     }
   ]
