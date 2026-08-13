@@ -727,6 +727,41 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577763/",
       "doi": "10.2147/BTT.S571251"
+    },
+    "42583340": {
+      "date": "2026-08-13",
+      "title": "Urinary heavy metal and trace element mixtures in chronic kidney disease: associations and implications for potential reverse causality.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42583340/",
+      "doi": "10.3389/ftox.2026.1892052"
+    },
+    "42584958": {
+      "date": "2026-08-13",
+      "title": "m6A-Driven Pexophagy Triggers Placental Ferroptosis to Impair Fetal Growth Upon Environmental Stress.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584958/",
+      "doi": "10.1002/advs.77068"
+    },
+    "42581170": {
+      "date": "2026-08-13",
+      "title": "Potentially toxic elements in multi-stressor marine environments: bioaccumulation, ecosystem impacts, and human health implications.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42581170/",
+      "doi": "10.1007/s10653-026-03420-4"
+    },
+    "42581408": {
+      "date": "2026-08-13",
+      "title": "Cephalosporin-Induced Haemotoxicity, Apoptosis, DNA Damage in Clarias gariepinus: Ameliorative Role of Chlorella vulgaris.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42581408/",
+      "doi": "10.1002/tox.70176"
+    },
+    "42584453": {
+      "date": "2026-08-13",
+      "title": "Quantifying the risk of tuberculosis recurrence in Asia: A systematic review of hazard estimates.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584453/",
+      "doi": ""
     }
   },
   "history": [
@@ -1012,6 +1047,16 @@
         "42580257",
         "42579053",
         "42577763"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "pmids": [
+        "42583340",
+        "42584958",
+        "42581170",
+        "42581408",
+        "42584453"
       ]
     }
   ]
