@@ -762,6 +762,34 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584453/",
       "doi": ""
+    },
+    "42594829": {
+      "date": "2026-08-14",
+      "title": "Integrated population-based evidence, network toxicology, single-cell profiling, and in vitro studies elucidate mechanisms connecting PAHs to stroke.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42594829/",
+      "doi": "10.1016/j.ecoenv.2026.120654"
+    },
+    "42591639": {
+      "date": "2026-08-14",
+      "title": "Systems toxicology integration uncovers trophoblast apoptosis as a pivotal mechanism underlying PFAS-related recurrent miscarriage.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42591639/",
+      "doi": "10.3389/fcell.2026.1889539"
+    },
+    "42590896": {
+      "date": "2026-08-14",
+      "title": "Cadmium Toxicity in Testis Organoids: Validation of an In Vitro Model for Testicular Toxicology.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590896/",
+      "doi": "10.1177/01926233261465410"
+    },
+    "42593355": {
+      "date": "2026-08-14",
+      "title": "Blood lead levels (BLLs), exposure pathways and health impacts in South Asia: a comprehensive review.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593355/",
+      "doi": "10.1080/10408444.2026.2692126"
     }
   },
   "history": [
@@ -1057,6 +1085,15 @@
         "42581170",
         "42581408",
         "42584453"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "pmids": [
+        "42594829",
+        "42591639",
+        "42590896",
+        "42593355"
       ]
     }
   ]
