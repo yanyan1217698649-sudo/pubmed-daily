@@ -790,6 +790,41 @@
       "score": 11,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42593355/",
       "doi": "10.1080/10408444.2026.2692126"
+    },
+    "42597451": {
+      "date": "2026-08-15",
+      "title": "Testicular organoid models in male reproductive toxicology: advances, applications, and future perspectives.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42597451/",
+      "doi": "10.3389/fphys.2026.1874148"
+    },
+    "42599319": {
+      "date": "2026-08-15",
+      "title": "Developmental Differences in the Organ-Specific Distribution of Cu, Zn, Cd, and Pb in Free-Ranging Wild Boar (Sus scrofa).",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42599319/",
+      "doi": "10.1007/s00244-026-01210-8"
+    },
+    "42595880": {
+      "date": "2026-08-15",
+      "title": "Developmental origins of hypertension and renal injury: epigenetic memory in renal stem and progenitor cells.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42595880/",
+      "doi": "10.1038/s41440-026-02774-7"
+    },
+    "42600829": {
+      "date": "2026-08-15",
+      "title": "Integrated Computational and In Vivo Evidence Prioritizes MYH6 as a Candidate Node in PFOS-Associated HCM-like Cardiac Remodeling.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600829/",
+      "doi": "10.1016/j.envpol.2026.128925"
+    },
+    "42600826": {
+      "date": "2026-08-15",
+      "title": "Integrating Lipid Metabolomics and Epidemiology: A Mediation Analysis of Blood Lipids between Per- and Polyfluoroalkyl Substances (PFAS) and Renal Impairment.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600826/",
+      "doi": "10.1016/j.envpol.2026.128967"
     }
   },
   "history": [
@@ -1094,6 +1129,16 @@
         "42591639",
         "42590896",
         "42593355"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "pmids": [
+        "42597451",
+        "42599319",
+        "42595880",
+        "42600829",
+        "42600826"
       ]
     }
   ]
