@@ -825,6 +825,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600826/",
       "doi": "10.1016/j.envpol.2026.128967"
+    },
+    "42584724": {
+      "date": "2026-08-16",
+      "title": "Microplastics and nanoplastics in human toxicity: ROS-mediated mechanisms, cellular damage and systemic effects.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584724/",
+      "doi": "10.1007/s11033-026-12575-3"
     }
   },
   "history": [
@@ -1139,6 +1146,12 @@
         "42595880",
         "42600829",
         "42600826"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "pmids": [
+        "42584724"
       ]
     }
   ]
