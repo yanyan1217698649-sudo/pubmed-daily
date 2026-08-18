@@ -832,6 +832,13 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42584724/",
       "doi": "10.1007/s11033-026-12575-3"
+    },
+    "42607984": {
+      "date": "2026-08-18",
+      "title": "Mitigating Bio-Clogging in Subsurface Flow Constructed Wetlands via Quorum Quenching: Performance Evaluation and Mechanistic Insights.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42607984/",
+      "doi": "10.1016/j.envres.2026.125504"
     }
   },
   "history": [
@@ -1152,6 +1159,12 @@
       "date": "2026-08-16",
       "pmids": [
         "42584724"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "pmids": [
+        "42607984"
       ]
     }
   ]
