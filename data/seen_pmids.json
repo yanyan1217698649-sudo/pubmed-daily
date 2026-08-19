@@ -839,6 +839,27 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42607984/",
       "doi": "10.1016/j.envres.2026.125504"
+    },
+    "42610645": {
+      "date": "2026-08-19",
+      "title": "Bisphenol A-Induced Nephrotoxicity: Mechanistic Insights Into Oxidative Stress, Inflammation, and Cellular Dysfunction.",
+      "score": 19,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42610645/",
+      "doi": "10.1002/tox.70190"
+    },
+    "42610118": {
+      "date": "2026-08-19",
+      "title": "Hesperidin mitigates DEHP-induced nephrotoxicity through anti-oxidant, anti-apoptotic, and anti-inflammatory pathway modulation: Evidence from Nrf2/HO-1/Keap-1, Bax/Bcl-2/caspase-3, and TLR4/NF-κB axis activation.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42610118/",
+      "doi": "10.22038/ijbms.2026.89049.19222"
+    },
+    "42612384": {
+      "date": "2026-08-19",
+      "title": "Microplastics in pediatric asthma: Clinical associations with disease severity.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42612384/",
+      "doi": "10.1016/j.ecoenv.2026.120676"
     }
   },
   "history": [
@@ -1165,6 +1186,14 @@
       "date": "2026-08-18",
       "pmids": [
         "42607984"
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "pmids": [
+        "42610645",
+        "42610118",
+        "42612384"
       ]
     }
   ]
