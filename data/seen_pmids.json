@@ -860,6 +860,41 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42612384/",
       "doi": "10.1016/j.ecoenv.2026.120676"
+    },
+    "42617961": {
+      "date": "2026-08-20",
+      "title": "Combined Lead Exposure and High-Copper Intake Exacerbates Synaptic Loss via METTL3-Mediated m6A Methylation in Mice.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617961/",
+      "doi": "10.1016/j.toxlet.2026.113177"
+    },
+    "42616453": {
+      "date": "2026-08-20",
+      "title": "Selenomethionine Alleviates 6PPDQ-Induced Liver Inflammation by Targeting ROS/METTL3/YTHDC1/ATF3 Axis.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616453/",
+      "doi": "10.1021/acs.jafc.6c04149"
+    },
+    "42614422": {
+      "date": "2026-08-20",
+      "title": "Evaluating the protective potential of Aspilia africana against phenanthrene-induced cardiorenal injury: biochemical and computational approaches.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42614422/",
+      "doi": "10.1007/s40203-026-00721-5"
+    },
+    "42617263": {
+      "date": "2026-08-20",
+      "title": "Lycium barbarum polysaccharides alleviate PVC microplastic-induced ferroptosis and fibrosis in duck kidneys by attenuating NCOA4-mediated ferritinophagy: an in vivo study.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617263/",
+      "doi": "10.1016/j.psj.2026.107479"
+    },
+    "42617555": {
+      "date": "2026-08-20",
+      "title": "Pre-treatment polyfunctionality percentage (PFA) of CD8+ T cells is associated with development of immune-related adverse events (irAEs) in patients receiving immune checkpoint inhibitors (ICIs).",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617555/",
+      "doi": "10.1016/j.neo.2026.101353"
     }
   },
   "history": [
@@ -1194,6 +1229,16 @@
         "42610645",
         "42610118",
         "42612384"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "pmids": [
+        "42617961",
+        "42616453",
+        "42614422",
+        "42617263",
+        "42617555"
       ]
     }
   ]
