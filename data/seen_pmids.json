@@ -895,6 +895,34 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617555/",
       "doi": "10.1016/j.neo.2026.101353"
+    },
+    "42620461": {
+      "date": "2026-08-21",
+      "title": "Single-cell RNA sequencing reveals dysregulation of innate immune signaling in early-life respiratory syncytial virus infection with subsequent low-level cadmium exposure.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42620461/",
+      "doi": "10.1016/j.toxrep.2026.102325"
+    },
+    "42622235": {
+      "date": "2026-08-21",
+      "title": "Epidemiological Transition of Renal Mortality in Chiapas (2000-2024): Autonomy of CKDu and the Rise of Hypertensive Nephropathy-A Time-Series Ecological Study.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622235/",
+      "doi": "10.1111/nep.70269"
+    },
+    "42622704": {
+      "date": "2026-08-21",
+      "title": "Chronic toxicity of pandemic-driven chloroquine diphosphate use in aquatic ecosystems: zebrafish (Danio rerio) as a model species.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622704/",
+      "doi": "10.1007/s10646-026-03128-2"
+    },
+    "42624068": {
+      "date": "2026-08-21",
+      "title": "Artificial intelligence-assisted phenotypic monitoring and diagnostic of wastewater microbiome management towards sustainability.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42624068/",
+      "doi": "10.1016/j.watres.2026.126624"
     }
   },
   "history": [
@@ -1239,6 +1267,15 @@
         "42614422",
         "42617263",
         "42617555"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "pmids": [
+        "42620461",
+        "42622235",
+        "42622704",
+        "42624068"
       ]
     }
   ]
