@@ -923,6 +923,41 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42624068/",
       "doi": "10.1016/j.watres.2026.126624"
+    },
+    "42628180": {
+      "date": "2026-08-22",
+      "title": "Benzo[a]pyrene-induced METTL3 overexpression accelerates renal cell carcinoma progression via m6A modification of LTB4R mRNA and enhanced Treg infiltration.",
+      "score": 19,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628180/",
+      "doi": "10.1016/j.ecoenv.2026.120685"
+    },
+    "42628894": {
+      "date": "2026-08-22",
+      "title": "PGAM5-mediated VDAC1 oligomerization Facilitates Ponatinib-Induced Cardiotoxicity via Disrupting the Mitophagy-Mitochondrial unfolded protein response Synergistic Defense Crosstalk.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628894/",
+      "doi": "10.1016/j.cbi.2026.112310"
+    },
+    "42628900": {
+      "date": "2026-08-22",
+      "title": "Water Arsenic Levels and Breast Cancer Risk in a United States-Wide Prospective Cohort.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628900/",
+      "doi": "10.1016/j.envpol.2026.128984"
+    },
+    "42626851": {
+      "date": "2026-08-22",
+      "title": "Pharmacokinetic profiles of intravenous arsenic trioxide versus oral realgar-indigo naturalis formula in mice.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42626851/",
+      "doi": "10.1039/d6cc03639b"
+    },
+    "42626445": {
+      "date": "2026-08-22",
+      "title": "Fluorescently Labelled Polypropylene as a Model Microplastic for Cellular Imaging.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42626445/",
+      "doi": "10.1039/d6py00089d"
     }
   },
   "history": [
@@ -1276,6 +1311,16 @@
         "42622235",
         "42622704",
         "42624068"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "pmids": [
+        "42628180",
+        "42628894",
+        "42628900",
+        "42626851",
+        "42626445"
       ]
     }
   ]
