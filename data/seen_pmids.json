@@ -958,6 +958,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42626445/",
       "doi": "10.1039/d6py00089d"
+    },
+    "42616296": {
+      "date": "2026-08-23",
+      "title": "Assessment of Exposure to Essential and Non-Essential Elements through Concentrations in Tissues of Chelonia mydas (Green turtles) from the South Atlantic, Northeast Brazil.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616296/",
+      "doi": "10.1007/s12011-026-05303-2"
     }
   },
   "history": [
@@ -1321,6 +1328,12 @@
         "42628900",
         "42626851",
         "42626445"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "pmids": [
+        "42616296"
       ]
     }
   ]
