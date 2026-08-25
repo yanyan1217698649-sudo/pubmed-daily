@@ -965,6 +965,34 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616296/",
       "doi": "10.1007/s12011-026-05303-2"
+    },
+    "42635011": {
+      "date": "2026-08-25",
+      "title": "m6A epitranscriptomic regulation in asthma: mechanisms and therapeutic prospects.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42635011/",
+      "doi": "10.1080/17501911.2026.2721821"
+    },
+    "42636583": {
+      "date": "2026-08-25",
+      "title": "A single-cell perspective on polyethylene microplastic toxicity: linking fibroblast reprogramming to immune microenvironment alterations in the lung.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636583/",
+      "doi": "10.1016/j.jhazmat.2026.143348"
+    },
+    "42637129": {
+      "date": "2026-08-25",
+      "title": "Prenatal and lactational nitrate exposure in drinking water induces modest alterations in offspring sensorimotor development, physiology and adult locomotor activity in a rat model.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637129/",
+      "doi": "10.1016/j.envpol.2026.129021"
+    },
+    "42636667": {
+      "date": "2026-08-25",
+      "title": "New insights into multi-endpoint toxicological profiles and potential molecular mechanisms for display-related organic light-emitting/modulating materials.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636667/",
+      "doi": "10.1016/j.ecoenv.2026.120706"
     }
   },
   "history": [
@@ -1334,6 +1362,15 @@
       "date": "2026-08-23",
       "pmids": [
         "42616296"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "pmids": [
+        "42635011",
+        "42636583",
+        "42637129",
+        "42636667"
       ]
     }
   ]
