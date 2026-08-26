@@ -993,6 +993,41 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636667/",
       "doi": "10.1016/j.ecoenv.2026.120706"
+    },
+    "42637892": {
+      "date": "2026-08-26",
+      "title": "NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637892/",
+      "doi": "10.1038/s41423-026-01447-2"
+    },
+    "42640683": {
+      "date": "2026-08-26",
+      "title": "Identification of Epigenetic Regulator-Associated Genes in Keloid Disease Through Integrated Bulk and Single-Cell Transcriptomics With RT-qPCR Validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42640683/",
+      "doi": "10.1096/fj.202601438R"
+    },
+    "42641857": {
+      "date": "2026-08-26",
+      "title": "Polypropylene microplastics orchestrate oxidative stress microenvironment and trigger metabolic reprogramming in mouse kidney as revealed by Raman spectra and metabolomics.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42641857/",
+      "doi": "10.1016/j.envpol.2026.129000"
+    },
+    "42639346": {
+      "date": "2026-08-26",
+      "title": "The contribution of polymer additives to microplastic toxicity: A long-term study with Oncorhynchus mykiss exposed to polystyrene microparticles with different hexabromocyclododecane content.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42639346/",
+      "doi": "10.17221/95/2025-VETMED"
+    },
+    "42637987": {
+      "date": "2026-08-26",
+      "title": "Correction: Comparative pre- and post- treatment effects of aqueous Zingiber Officinale Rhizome extract on cadmium-induced renal dysfunction in wistar rats: insights into NF-kB, NrF2 and Caspase-3 pathways.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637987/",
+      "doi": "10.1007/s10735-026-10937-6"
     }
   },
   "history": [
@@ -1371,6 +1406,16 @@
         "42636583",
         "42637129",
         "42636667"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "pmids": [
+        "42637892",
+        "42640683",
+        "42641857",
+        "42639346",
+        "42637987"
       ]
     }
   ]
