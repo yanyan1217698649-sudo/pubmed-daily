@@ -1028,6 +1028,41 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637987/",
       "doi": "10.1007/s10735-026-10937-6"
+    },
+    "42646063": {
+      "date": "2026-08-27",
+      "title": "Micro- and Nanoplastic Pollution and Renal Health: Human Evidence, Mechanisms, and Clinical Implications.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42646063/",
+      "doi": "10.3390/jox16040149"
+    },
+    "42646929": {
+      "date": "2026-08-27",
+      "title": "Arsenic, Cadmium, Uranium and Vanadium Produce Shared and Distinct Gene Expression Signatures in Primary Human Renal Cells.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42646929/",
+      "doi": "10.3390/toxics14080648"
+    },
+    "42647014": {
+      "date": "2026-08-27",
+      "title": "Heavy Metal-Induced Genotoxic Damage in Chelon auratus: Evidence from a Coastal Gulf Ecosystem.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42647014/",
+      "doi": "10.3390/toxics14080732"
+    },
+    "42650284": {
+      "date": "2026-08-27",
+      "title": "Ellagic Acid Mitigates Lead (Pb)-Induced Toxicity in Cyprinus carpio: A Multi-Biomarker Assessment of Hematological, Immunological, and Oxidative Stress Responses Supported by Molecular Docking.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42650284/",
+      "doi": "10.3390/antiox15081020"
+    },
+    "42657254": {
+      "date": "2026-08-27",
+      "title": "Metal carcinogens and cancer: integrating genetic and epigenetic perspectives.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42657254/",
+      "doi": "10.3389/fonc.2026.1896466"
     }
   },
   "history": [
@@ -1416,6 +1451,16 @@
         "42641857",
         "42639346",
         "42637987"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "pmids": [
+        "42646063",
+        "42646929",
+        "42647014",
+        "42650284",
+        "42657254"
       ]
     }
   ]
