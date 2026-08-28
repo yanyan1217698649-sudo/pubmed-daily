@@ -1063,6 +1063,41 @@
       "score": 11,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42657254/",
       "doi": "10.3389/fonc.2026.1896466"
+    },
+    "42662485": {
+      "date": "2026-08-28",
+      "title": "Exploring the Molecular Mechanisms by Which DEHP Promotes the Occurrence and Progression of Kidney Stones Based on Network Toxicology and Experimental Validation.",
+      "score": 20,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42662485/",
+      "doi": "10.2147/IJGM.S623192"
+    },
+    "42660439": {
+      "date": "2026-08-28",
+      "title": "Bisphenol A promotes colorectal cancer malignancy through CXCL8 upregulation associated with p38 MAPK activation: A potential link to type 2 diabetes mellitus comorbidity.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42660439/",
+      "doi": "10.1016/j.cbi.2026.112321"
+    },
+    "42653384": {
+      "date": "2026-08-28",
+      "title": "Gaseous Air Pollutant Exposure and Atherosclerosis: A Systematic Study Integrating Multi-Omics and Network Toxicology.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653384/",
+      "doi": "10.3390/ijms27167381"
+    },
+    "42661725": {
+      "date": "2026-08-28",
+      "title": "FN1-associated cavernous endothelial remodeling induced by bisphenol A: relevance to erectile dysfunction and attenuation by baicalin.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42661725/",
+      "doi": "10.3389/fnut.2026.1920479"
+    },
+    "42662802": {
+      "date": "2026-08-28",
+      "title": "One health risk assessment of heavy-metal contamination in Nile tilapia (Oreochromis niloticus) from contrasting aquaculture systems in Egypt.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42662802/",
+      "doi": "10.1016/j.toxrep.2026.102331"
     }
   },
   "history": [
@@ -1461,6 +1496,16 @@
         "42647014",
         "42650284",
         "42657254"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "pmids": [
+        "42662485",
+        "42660439",
+        "42653384",
+        "42661725",
+        "42662802"
       ]
     }
   ]
