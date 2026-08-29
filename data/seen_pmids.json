@@ -1098,6 +1098,41 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42662802/",
       "doi": "10.1016/j.toxrep.2026.102331"
+    },
+    "42664688": {
+      "date": "2026-08-29",
+      "title": "Phytomelatonin-mediated epigenetic and RNA regulatory networks in plant abiotic stress resilience.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664688/",
+      "doi": "10.1016/j.plaphy.2026.111692"
+    },
+    "42664436": {
+      "date": "2026-08-29",
+      "title": "Occupational Air Pollutants and Early Kidney Injury: Insights from Oxidative Stress and KIM-1 Biomonitoring in Iron and Steel Industry Workers.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664436/",
+      "doi": "10.1097/JOM.0000000000003871"
+    },
+    "42664556": {
+      "date": "2026-08-29",
+      "title": "Hexachlorobutadiene exposure promotes hepatocellular carcinoma progression via CD8+ T dysfunction and VDR-mediated PI3K/AKT activation: An integrated multi-omics and experimental study.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664556/",
+      "doi": "10.1016/j.ecoenv.2026.120735"
+    },
+    "42664871": {
+      "date": "2026-08-29",
+      "title": "Bisphenol mixture impairs offspring social memory via an H4K8 Lactylation-Fyn-Microglial synaptic pruning axis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664871/",
+      "doi": "10.1016/j.envint.2026.110482"
+    },
+    "42662732": {
+      "date": "2026-08-29",
+      "title": "Animal organoids as models for integrated One Health research.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42662732/",
+      "doi": "10.1016/j.onehlt.2026.101539"
     }
   },
   "history": [
@@ -1506,6 +1541,16 @@
         "42653384",
         "42661725",
         "42662802"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "pmids": [
+        "42664688",
+        "42664436",
+        "42664556",
+        "42664871",
+        "42662732"
       ]
     }
   ]
