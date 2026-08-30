@@ -1133,6 +1133,20 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42662732/",
       "doi": "10.1016/j.onehlt.2026.101539"
+    },
+    "42667716": {
+      "date": "2026-08-30",
+      "title": "Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667716/",
+      "doi": "10.1016/j.jhazmat.2026.143419"
+    },
+    "42667298": {
+      "date": "2026-08-30",
+      "title": "Microplastics in bottled water and human health outcomes: a systematic review of multi-organ toxicity and mechanistic pathways.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667298/",
+      "doi": "10.1080/26896583.2026.2722385"
     }
   },
   "history": [
@@ -1551,6 +1565,13 @@
         "42664556",
         "42664871",
         "42662732"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "pmids": [
+        "42667716",
+        "42667298"
       ]
     }
   ]
