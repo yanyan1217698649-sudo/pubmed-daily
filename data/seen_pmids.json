@@ -1147,6 +1147,41 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667298/",
       "doi": "10.1080/26896583.2026.2722385"
+    },
+    "42648532": {
+      "date": "2026-08-31",
+      "title": "Intermittent organophosphate pesticide exposure induces hepatic injury in goats with subclinical fatty liver via immune activation and energy metabolism reprogramming.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42648532/",
+      "doi": "10.1016/j.envpol.2026.129033"
+    },
+    "42664242": {
+      "date": "2026-08-31",
+      "title": "Acute oral dose toxicity study of micro- and nano-plastics of polystyrene in female Wistar albino rats.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664242/",
+      "doi": "10.1093/mutage/geag031"
+    },
+    "42648389": {
+      "date": "2026-08-31",
+      "title": "Short-term renal findings during CaNa₂EDTA chelation in workers with occupational lead exposure: Proteinuria, albuminuria, and renal function changes.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42648389/",
+      "doi": "10.1016/j.etap.2026.105150"
+    },
+    "42664870": {
+      "date": "2026-08-31",
+      "title": "In vivo and in vitro assessment of absorption and disposition kinetics of bis[2-(perfluorohexyl)ethyl] phosphate in rats: food effect, physiologically-based modeling, and human exposure estimation.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664870/",
+      "doi": "10.1016/j.envint.2026.110475"
+    },
+    "42647004": {
+      "date": "2026-08-31",
+      "title": "Effects of Per- and Polyfluoroalkyl Substances (PFAS) Exposure Reduction on Serum Lipids in the Copenhagen City Heart Study: A Protocol for an Observational Cohort Study Emulating a Target Trial.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42647004/",
+      "doi": "10.3390/toxics14080722"
     }
   },
   "history": [
@@ -1572,6 +1607,16 @@
       "pmids": [
         "42667716",
         "42667298"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "pmids": [
+        "42648532",
+        "42664242",
+        "42648389",
+        "42664870",
+        "42647004"
       ]
     }
   ]
