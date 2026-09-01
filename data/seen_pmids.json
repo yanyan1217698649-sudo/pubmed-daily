@@ -1182,6 +1182,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42647004/",
       "doi": "10.3390/toxics14080722"
+    },
+    "42645049": {
+      "date": "2026-09-01",
+      "title": "Carbon Nanotube-Based Biosensors for Non-Invasive Biofluid Analysis.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42645049/",
+      "doi": "10.3390/bios16080431"
     }
   },
   "history": [
@@ -1617,6 +1624,12 @@
         "42648389",
         "42664870",
         "42647004"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "pmids": [
+        "42645049"
       ]
     }
   ]
