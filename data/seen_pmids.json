@@ -1203,6 +1203,27 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42679963/",
       "doi": "10.1016/j.biortech.2026.135751"
+    },
+    "42686433": {
+      "date": "2026-09-03",
+      "title": "Growing Clinical Challenge-Arsenic-Induced Kidney Injury: Mechanisms and Management of Integrating Conventional and Traditional ChineseMedicine Approaches.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42686433/",
+      "doi": "10.1016/j.semnephrol.2026.151719"
+    },
+    "42685547": {
+      "date": "2026-09-03",
+      "title": "Bisphenol A aggravates colitis-associated intestinal epithelial injury: Mitochondrial dysfunction and CASP1-associated inflammatory signaling.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685547/",
+      "doi": "10.1016/j.ecoenv.2026.120744"
+    },
+    "42687243": {
+      "date": "2026-09-03",
+      "title": "Detection of Time-Dependent Uptake of Microplastics by Joint Utilization of Hepatic Organoids and a 3D-Printed Carrier.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687243/",
+      "doi": "10.1021/acsami.6c10955"
     }
   },
   "history": [
@@ -1651,6 +1672,14 @@
       "pmids": [
         "42676651",
         "42679963"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "pmids": [
+        "42686433",
+        "42685547",
+        "42687243"
       ]
     }
   ]
