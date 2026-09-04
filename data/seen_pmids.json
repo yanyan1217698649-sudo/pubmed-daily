@@ -1224,6 +1224,34 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687243/",
       "doi": "10.1021/acsami.6c10955"
+    },
+    "42693366": {
+      "date": "2026-09-04",
+      "title": "\"Radiation-Synthesized Gallotannin Hydrogel Attenuates Trisenox-Induced Nephrotoxicity in Rats: miR-223/TXNIP Axis Modulation of Oxidative Stress and Inflammation\".",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42693366/",
+      "doi": "10.1007/s12011-026-05301-4"
+    },
+    "42691624": {
+      "date": "2026-09-04",
+      "title": "Perfluorooctane sulfonate (PFOS) exposure alters developmental and metabolic gene expression in human hippocampal organoids.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42691624/",
+      "doi": "10.1016/j.bbrc.2026.154534"
+    },
+    "42690521": {
+      "date": "2026-09-04",
+      "title": "Ameliorative Role of fenugreek Oil Against Lead Acetate Trihydrate-Induced Hepatic, Renal and Testicular Injury in Wistar Albino Rats: Insights into Bcl-2 Expression and sodium/potassium balance.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42690521/",
+      "doi": "10.1007/s12011-026-05321-0"
+    },
+    "42689832": {
+      "date": "2026-09-04",
+      "title": "Two-Compartment Physiologically Based Pharmacokinetic Modeling with Postnatal Glomerular Filtration Rate Maturation to Estimate Individual-Level Infant Blood Polyfluoroalkyl Substances Concentrations from Breast Milk: Persistent Burden amid Shifting Compound Profiles in Korean Cohorts (2018-2023).",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42689832/",
+      "doi": "10.1021/acs.est.6c05230"
     }
   },
   "history": [
@@ -1680,6 +1708,15 @@
         "42686433",
         "42685547",
         "42687243"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "pmids": [
+        "42693366",
+        "42691624",
+        "42690521",
+        "42689832"
       ]
     }
   ]
