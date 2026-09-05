@@ -1252,6 +1252,13 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42689832/",
       "doi": "10.1021/acs.est.6c05230"
+    },
+    "42697459": {
+      "date": "2026-09-05",
+      "title": "Environmental cadmium disrupts placental angiogenesis and fetal growth via enhancing m6A modification in Wwp2.",
+      "score": 19,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42697459/",
+      "doi": "10.1016/j.envpol.2026.129085"
     }
   },
   "history": [
@@ -1717,6 +1724,12 @@
         "42691624",
         "42690521",
         "42689832"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "pmids": [
+        "42697459"
       ]
     }
   ]
