@@ -1259,6 +1259,34 @@
       "score": 19,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42697459/",
       "doi": "10.1016/j.envpol.2026.129085"
+    },
+    "42700663": {
+      "date": "2026-09-06",
+      "title": "Multi-level evidence for Pb-Cd co-exposure nephrotoxicity: An integrated analysis of NHANES, outcome-oriented network toxicology, and cell-based validation.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42700663/",
+      "doi": "10.1016/j.ecoenv.2026.120747"
+    },
+    "42701762": {
+      "date": "2026-09-06",
+      "title": "Network toxicology and single-cell analysis reveal molecular mechanisms of DEHP-induced colorectal cancer.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701762/",
+      "doi": "10.6026/973206300223430"
+    },
+    "42701175": {
+      "date": "2026-09-06",
+      "title": "PFOS exposure is linked to immune-metabolic disruption in MASLD: integrated population, computational, and experimental evidence.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42701175/",
+      "doi": "10.1007/s11030-026-11727-8"
+    },
+    "42699267": {
+      "date": "2026-09-06",
+      "title": "Air Pollution-Associated Intracellular Metals, Immune Gene Expression, and Erythrocyte Indices in COPD with Anemia.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42699267/",
+      "doi": "10.2147/COPD.S626348"
     }
   },
   "history": [
@@ -1730,6 +1758,15 @@
       "date": "2026-09-05",
       "pmids": [
         "42697459"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "pmids": [
+        "42700663",
+        "42701762",
+        "42701175",
+        "42699267"
       ]
     }
   ]
