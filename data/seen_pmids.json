@@ -1287,6 +1287,20 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42699267/",
       "doi": "10.2147/COPD.S626348"
+    },
+    "42702610": {
+      "date": "2026-09-07",
+      "title": "Prenatal PM2.5 exposure drives epigenetic reprogramming of fetal macrophages linked to atopic dermatitis.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702610/",
+      "doi": "10.1038/s41467-026-76298-6"
+    },
+    "42702276": {
+      "date": "2026-09-07",
+      "title": "Human Seroprevalence of Echinococcus granulosus in Sulaimani City.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702276/",
+      "doi": "10.1016/j.actatropica.2026.108318"
     }
   },
   "history": [
@@ -1767,6 +1781,13 @@
         "42701762",
         "42701175",
         "42699267"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "pmids": [
+        "42702610",
+        "42702276"
       ]
     }
   ]
