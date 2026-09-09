@@ -1301,19 +1301,23 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702276/",
       "doi": "10.1016/j.actatropica.2026.108318"
+    },
+    "42708935": {
+      "date": "2026-09-09",
+      "title": "PFASs Disrupt Airway Epithelial Homeostasis in Human Organoids: Evidence Relevant to Obstructive Airway Disease.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42708935/",
+      "doi": "10.1021/acs.est.6c04546"
+    },
+    "42711729": {
+      "date": "2026-09-09",
+      "title": "Polystyrene microplastics impair sheep spermatogenesis by disrupting rumen microbiota-derived butyrate signaling.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42711729/",
+      "doi": "10.1186/s40104-026-01490-z"
     }
   },
   "history": [
-    {
-      "date": "2026-07-04",
-      "pmids": [
-        "42398862",
-        "42396897",
-        "42399588",
-        "42397636",
-        "42397593"
-      ]
-    },
     {
       "date": "2026-07-05",
       "pmids": [
@@ -1788,6 +1792,13 @@
       "pmids": [
         "42702610",
         "42702276"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "pmids": [
+        "42708935",
+        "42711729"
       ]
     }
   ]
