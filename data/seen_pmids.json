@@ -1315,15 +1315,44 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42711729/",
       "doi": "10.1186/s40104-026-01490-z"
+    },
+    "42717112": {
+      "date": "2026-09-10",
+      "title": "Pharmacological inhibition of endoplasmic reticulum stress ameliorates polystyrene nanoplastic-induced renal injury in female Wistar rats.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717112/",
+      "doi": "10.1007/s10735-026-10955-4"
+    },
+    "42715255": {
+      "date": "2026-09-10",
+      "title": "Environmental PFOA exposure and the risk of metabolic dysfunction-associated steatotic liver disease: An integrated computational toxicology and multi-omics study.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42715255/",
+      "doi": "10.1371/journal.pone.0357970"
+    },
+    "42715894": {
+      "date": "2026-09-10",
+      "title": "Phthalate exposure and osteoporosis: NHANES associations and integrative in silico prioritization of candidate molecular targets.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42715894/",
+      "doi": "10.1016/j.chemosphere.2026.145085"
+    },
+    "42712133": {
+      "date": "2026-09-10",
+      "title": "Exosomes in Toxicology: Emerging Biomarkers and Mechanistic Mediators of Toxicant-Induced Injury.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42712133/",
+      "doi": "10.1002/jat.70431"
+    },
+    "42717167": {
+      "date": "2026-09-10",
+      "title": "Carvacrol Modulates Cadmium-Induced Behavioral, Biochemical, Histopathological, and Metabolomic Alterations in rats.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717167/",
+      "doi": "10.1007/s12011-026-05280-6"
     }
   },
   "history": [
-    {
-      "date": "2026-07-05",
-      "pmids": [
-        "42400455"
-      ]
-    },
     {
       "date": "2026-07-06",
       "pmids": [
@@ -1799,6 +1828,16 @@
       "pmids": [
         "42708935",
         "42711729"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "pmids": [
+        "42717112",
+        "42715255",
+        "42715894",
+        "42712133",
+        "42717167"
       ]
     }
   ]
