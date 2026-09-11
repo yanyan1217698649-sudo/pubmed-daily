@@ -1350,15 +1350,30 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717167/",
       "doi": "10.1007/s12011-026-05280-6"
+    },
+    "42719741": {
+      "date": "2026-09-11",
+      "title": "Unveiling the molecular toxicity of plasticizers derived from microplastics (DMP and DEP) in diabetic kidney disease: integrative insights from network toxicology and multi-omics analysis.",
+      "score": 21,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42719741/",
+      "doi": "10.3389/fimmu.2026.1918728"
+    },
+    "42722804": {
+      "date": "2026-09-11",
+      "title": "Metal Homeostasis Imbalance as Potentially Contributing Mechanism in Onset of Cardiac Disorders in Individuals with Chronic Obstructive Pulmonary Disease and Chronic Kidney Disease.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42722804/",
+      "doi": "10.1007/s12011-026-05330-z"
+    },
+    "42719684": {
+      "date": "2026-09-11",
+      "title": "At the Interface of Urban Exposure and Infection: A Classical Case of Leptospirosis in New York City.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42719684/",
+      "doi": "10.7759/cureus.114250"
     }
   },
   "history": [
-    {
-      "date": "2026-07-06",
-      "pmids": [
-        "42402419"
-      ]
-    },
     {
       "date": "2026-07-07",
       "pmids": [
@@ -1838,6 +1853,14 @@
         "42715894",
         "42712133",
         "42717167"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "pmids": [
+        "42719741",
+        "42722804",
+        "42719684"
       ]
     }
   ]
