@@ -1371,15 +1371,16 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42719684/",
       "doi": "10.7759/cureus.114250"
+    },
+    "42724844": {
+      "date": "2026-09-12",
+      "title": "Microplastics and nanoplastics-related genes signature predicts prognosis in pancreatic ductal adenocarcinoma and functional validation of interleukin 1 alpha.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42724844/",
+      "doi": "10.21037/tcr-2026-1405"
     }
   },
   "history": [
-    {
-      "date": "2026-07-07",
-      "pmids": [
-        "42407312"
-      ]
-    },
     {
       "date": "2026-07-08",
       "pmids": [
@@ -1861,6 +1862,12 @@
         "42719741",
         "42722804",
         "42719684"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "pmids": [
+        "42724844"
       ]
     }
   ]
