@@ -1378,18 +1378,30 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42724844/",
       "doi": "10.21037/tcr-2026-1405"
+    },
+    "42731774": {
+      "date": "2026-09-13",
+      "title": "UVB-aged polystyrene microplastics induce enhanced stress responses in human proximal tubular cells.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731774/",
+      "doi": "10.1016/j.tox.2026.154585"
+    },
+    "42731388": {
+      "date": "2026-09-13",
+      "title": "Multi-omics analysis and experiments reveal an association between polystyrene microplastics exposure and colorectal cancer progression.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731388/",
+      "doi": "10.1016/j.ecoenv.2026.120792"
+    },
+    "42730965": {
+      "date": "2026-09-13",
+      "title": "Long-term exposure to ambient air pollution and an increased risk of hyperuricemia.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42730965/",
+      "doi": "10.1007/s10067-026-08398-z"
     }
   },
   "history": [
-    {
-      "date": "2026-07-08",
-      "pmids": [
-        "42413735",
-        "42414864",
-        "42416385",
-        "42416905"
-      ]
-    },
     {
       "date": "2026-07-09",
       "pmids": [
@@ -1868,6 +1880,14 @@
       "date": "2026-09-12",
       "pmids": [
         "42724844"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "pmids": [
+        "42731774",
+        "42731388",
+        "42730965"
       ]
     }
   ]
