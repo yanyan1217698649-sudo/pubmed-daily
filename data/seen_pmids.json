@@ -1399,17 +1399,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42730965/",
       "doi": "10.1007/s10067-026-08398-z"
+    },
+    "42713826": {
+      "date": "2026-09-14",
+      "title": "A toxicokinetic model for gill processes affecting the uptake of perfluoroalkyl acids by freshwater fish.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42713826/",
+      "doi": "10.1039/d6em00160b"
     }
   },
   "history": [
-    {
-      "date": "2026-07-09",
-      "pmids": [
-        "42418064",
-        "42418975",
-        "42422268"
-      ]
-    },
     {
       "date": "2026-07-10",
       "pmids": [
@@ -1888,6 +1887,12 @@
         "42731774",
         "42731388",
         "42730965"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "pmids": [
+        "42713826"
       ]
     }
   ]
