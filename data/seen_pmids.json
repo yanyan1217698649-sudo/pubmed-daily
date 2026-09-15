@@ -1406,16 +1406,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42713826/",
       "doi": "10.1039/d6em00160b"
+    },
+    "42737799": {
+      "date": "2026-09-15",
+      "title": "Micro- and Nanoplastics in the Human Exposome: Environmental Pathways, Kidney Toxicity, and Implications for Public Health Risk Assessment.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42737799/",
+      "doi": "10.3390/ijms27177903"
+    },
+    "42735479": {
+      "date": "2026-09-15",
+      "title": "Machine learning-based identification of core regulatory targets in 1-nitropyrene-induced placental trophoblast dysfunction and FGR.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42735479/",
+      "doi": "10.1016/j.ecoenv.2026.120794"
+    },
+    "42737786": {
+      "date": "2026-09-15",
+      "title": "The Role of Metals and Trace Elements in the Pathogenesis of Osteoarthritis and Other Rheumatic Diseases.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42737786/",
+      "doi": "10.3390/ijms27177889"
+    },
+    "42737676": {
+      "date": "2026-09-15",
+      "title": "1-Hydroxypyrene Promotes Bladder Cancer Progression and Tumor-Associated Immunosuppression via MIF.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42737676/",
+      "doi": "10.3390/ijms27177778"
+    },
+    "42734623": {
+      "date": "2026-09-15",
+      "title": "Engineered nanostructured lipid carrier encapsulating thymoquinone and resveratrol to prevent Bisphenol S induced cytotoxicity.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734623/",
+      "doi": "10.1080/10837450.2026.2734054"
     }
   },
   "history": [
-    {
-      "date": "2026-07-10",
-      "pmids": [
-        "42425288",
-        "42428344"
-      ]
-    },
     {
       "date": "2026-07-11",
       "pmids": [
@@ -1893,6 +1921,16 @@
       "date": "2026-09-14",
       "pmids": [
         "42713826"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "pmids": [
+        "42737799",
+        "42735479",
+        "42737786",
+        "42737676",
+        "42734623"
       ]
     }
   ]
