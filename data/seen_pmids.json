@@ -1441,16 +1441,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734623/",
       "doi": "10.1080/10837450.2026.2734054"
+    },
+    "42744603": {
+      "date": "2026-09-16",
+      "title": "Kidney Risks Linked to Per- and Polyfluoroalkyl Substance Exposure.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42744603/",
+      "doi": "10.1002/tox.70197"
+    },
+    "42744184": {
+      "date": "2026-09-16",
+      "title": "Arsenic-induced SAM depletion and m6A dysregulation contribute to impaired insulin secretion in MIN6 cells.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42744184/",
+      "doi": "10.1016/j.tox.2026.154587"
+    },
+    "42744665": {
+      "date": "2026-09-16",
+      "title": "A multi-target shield: Protective roles of Scutellaria baicalensis flavonoids in heavy metal-induced organ damage.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42744665/",
+      "doi": "10.1016/j.joim.2026.09.001"
+    },
+    "42743802": {
+      "date": "2026-09-16",
+      "title": "Unraveling shared immunotoxicological mechanisms linking exposure to PPCPs with Alzheimer's disease and atherosclerosis: integrative multi-omics, network toxicology, and experimental validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42743802/",
+      "doi": "10.1016/j.envint.2026.110518"
+    },
+    "42741553": {
+      "date": "2026-09-16",
+      "title": "Potential hazard assessment of 6PPD-quinone in the context of ulcerative colitis: network toxicology, machine learning, transcriptomic analysis, and preliminary In vivo validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741553/",
+      "doi": "10.3389/fimmu.2026.1848350"
     }
   },
   "history": [
-    {
-      "date": "2026-07-11",
-      "pmids": [
-        "42431064",
-        "42430007"
-      ]
-    },
     {
       "date": "2026-07-12",
       "pmids": [
@@ -1931,6 +1959,16 @@
         "42737786",
         "42737676",
         "42734623"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "pmids": [
+        "42744603",
+        "42744184",
+        "42744665",
+        "42743802",
+        "42741553"
       ]
     }
   ]
