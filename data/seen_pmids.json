@@ -1476,17 +1476,23 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741553/",
       "doi": "10.3389/fimmu.2026.1848350"
+    },
+    "42749352": {
+      "date": "2026-09-17",
+      "title": "Toward AI Virtual Cells for Hepatology: Representation, Generation, Dynamics, and Intervention in Single-Cell Models.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749352/",
+      "doi": "10.3350/cmh.2026.0820"
+    },
+    "42749109": {
+      "date": "2026-09-17",
+      "title": "Longitudinal trace element monitoring in haemodialysis patients: Impact of dialysis vintage and technical treatment factors.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749109/",
+      "doi": "10.1016/j.clinbiochem.2026.111206"
     }
   },
   "history": [
-    {
-      "date": "2026-07-12",
-      "pmids": [
-        "42436292",
-        "42435052",
-        "42435682"
-      ]
-    },
     {
       "date": "2026-07-13",
       "pmids": [
@@ -1969,6 +1975,13 @@
         "42744665",
         "42743802",
         "42741553"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "pmids": [
+        "42749352",
+        "42749109"
       ]
     }
   ]
