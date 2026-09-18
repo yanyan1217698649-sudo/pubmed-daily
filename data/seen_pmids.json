@@ -1490,16 +1490,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749109/",
       "doi": "10.1016/j.clinbiochem.2026.111206"
+    },
+    "42752549": {
+      "date": "2026-09-18",
+      "title": "Per- and polyfluoroalkyl substances and kidney disease: Genetic associations and computational prioritization of candidate toxicogenomic pathways.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752549/",
+      "doi": "10.1371/journal.pcbi.1014665"
     }
   },
   "history": [
-    {
-      "date": "2026-07-13",
-      "pmids": [
-        "42438792",
-        "42438480"
-      ]
-    },
     {
       "date": "2026-07-14",
       "pmids": [
@@ -1982,6 +1982,12 @@
       "pmids": [
         "42749352",
         "42749109"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "pmids": [
+        "42752549"
       ]
     }
   ]
