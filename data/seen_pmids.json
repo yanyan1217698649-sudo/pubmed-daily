@@ -1497,15 +1497,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42752549/",
       "doi": "10.1371/journal.pcbi.1014665"
+    },
+    "42758764": {
+      "date": "2026-09-19",
+      "title": "Integrated analysis of bulk transcriptomics and single-cell transcriptomics revealed the association characteristics between heart failure and β-hydroxybutyrylation-related genes.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42758764/",
+      "doi": "10.1371/journal.pone.0357103"
+    },
+    "42756606": {
+      "date": "2026-09-19",
+      "title": "Evaluation of Ambient Air Particulate Matter, Urine Arsenic Levels and the Effect on Residents Health in an Artisanal Mining Community and an Incorporated Mining Community in Ghana From April 2024 to July 2024: A Cross-Sectional Study.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756606/",
+      "doi": "10.1002/hsr2.73246"
+    },
+    "42757645": {
+      "date": "2026-09-19",
+      "title": "RETRACTED: Das et al. Carnosic Acid Attenuates Cadmium Induced Nephrotoxicity by Inhibiting Oxidative Stress, Promoting Nrf2/HO-1 Signalling and Impairing TGF-β1/Smad/Collagen IV Signalling. Molecules 2019, 24, 4176.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42757645/",
+      "doi": "10.3390/molecules31183312"
+    },
+    "42759461": {
+      "date": "2026-09-19",
+      "title": "Integrated multi-omics and experimental analyses reveal VIPR1 as a potential mediator linking environmental bisphenol A exposure to MASH-HCC progression.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42759461/",
+      "doi": "10.1016/j.ecoenv.2026.120809"
+    },
+    "42756293": {
+      "date": "2026-09-19",
+      "title": "Integrative transcriptomic analysis identifies CCL22-associated immune signatures in air pollution-related atopic dermatitis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756293/",
+      "doi": "10.3389/fpubh.2026.1906298"
     }
   },
   "history": [
-    {
-      "date": "2026-07-14",
-      "pmids": [
-        "42442276"
-      ]
-    },
     {
       "date": "2026-07-15",
       "pmids": [
@@ -1988,6 +2017,16 @@
       "date": "2026-09-18",
       "pmids": [
         "42752549"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "pmids": [
+        "42758764",
+        "42756606",
+        "42757645",
+        "42759461",
+        "42756293"
       ]
     }
   ]
