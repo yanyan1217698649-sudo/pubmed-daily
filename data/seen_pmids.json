@@ -1532,19 +1532,23 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42756293/",
       "doi": "10.3389/fpubh.2026.1906298"
+    },
+    "42762425": {
+      "date": "2026-09-20",
+      "title": "Human Mercury Biomonitoring Under the Minamata Convention: Blood, Urine, Hair, and Tissue Biomarkers (2000-2026).",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42762425/",
+      "doi": "10.1007/s12011-026-05347-4"
+    },
+    "42760421": {
+      "date": "2026-09-20",
+      "title": "Shared molecular mechanisms underlying the systemic toxicity of air pollution.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760421/",
+      "doi": "10.1007/s11684-026-1255-6"
     }
   },
   "history": [
-    {
-      "date": "2026-07-15",
-      "pmids": [
-        "42446780",
-        "42452391",
-        "42446666",
-        "42450258",
-        "42445137"
-      ]
-    },
     {
       "date": "2026-07-16",
       "pmids": [
@@ -2027,6 +2031,13 @@
         "42757645",
         "42759461",
         "42756293"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "pmids": [
+        "42762425",
+        "42760421"
       ]
     }
   ]
