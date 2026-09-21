@@ -1546,16 +1546,30 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760421/",
       "doi": "10.1007/s11684-026-1255-6"
+    },
+    "42755451": {
+      "date": "2026-09-21",
+      "title": "Perfluorooctanoic acid-associated complement factor B upregulation and atrial fibrillation-related molecular alterations: integrated network toxicology, Mendelian randomization, molecular dynamics, and HL-1 cell analyses.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42755451/",
+      "doi": "10.3389/fcvm.2026.1759840"
+    },
+    "42759910": {
+      "date": "2026-09-21",
+      "title": "Transcriptomics-informed systems toxicology prioritizes candidate links between endocrine-disrupting chemicals and chronic kidney disease.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42759910/",
+      "doi": "10.1016/j.envpol.2026.129160"
+    },
+    "42759590": {
+      "date": "2026-09-21",
+      "title": "Pesticides and Metal Contaminants in Lake Chapala, Mexico: Differences in Bioaccumulation and Associated Health Risks.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42759590/",
+      "doi": "10.1016/j.envres.2026.125693"
     }
   },
   "history": [
-    {
-      "date": "2026-07-16",
-      "pmids": [
-        "42455828",
-        "42450113"
-      ]
-    },
     {
       "date": "2026-07-17",
       "pmids": [
@@ -2038,6 +2052,14 @@
       "pmids": [
         "42762425",
         "42760421"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "pmids": [
+        "42755451",
+        "42759910",
+        "42759590"
       ]
     }
   ]
