@@ -1567,17 +1567,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42759590/",
       "doi": "10.1016/j.envres.2026.125693"
+    },
+    "42766214": {
+      "date": "2026-09-22",
+      "title": "Association Between Blood Heavy Metals and Selenium with All-Cause Mortality in Cardiovascular-Kidney-Metabolic Syndrome Populations: Exploring the Mediating Effects of Inflammatory Biomarkers.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766214/",
+      "doi": "10.1007/s12012-026-10179-8"
     }
   },
   "history": [
-    {
-      "date": "2026-07-17",
-      "pmids": [
-        "42463899",
-        "42463785",
-        "42462996"
-      ]
-    },
     {
       "date": "2026-07-18",
       "pmids": [
@@ -2060,6 +2059,12 @@
         "42755451",
         "42759910",
         "42759590"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "pmids": [
+        "42766214"
       ]
     }
   ]
