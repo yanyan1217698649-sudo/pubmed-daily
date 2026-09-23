@@ -1574,15 +1574,37 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766214/",
       "doi": "10.1007/s12012-026-10179-8"
+    },
+    "42771981": {
+      "date": "2026-09-23",
+      "title": "Association of mixed metal exposure with kidney injury and benchmark dose estimation in Chinese adults aged 40 years and older.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42771981/",
+      "doi": "10.1016/j.ecoenv.2026.120829"
+    },
+    "42771980": {
+      "date": "2026-09-23",
+      "title": "Unravelling gut-kidney axis alterations in BPA-related CKD: Integrating network toxicology and machine learning with experimental validation.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42771980/",
+      "doi": "10.1016/j.ecoenv.2026.120793"
+    },
+    "42773773": {
+      "date": "2026-09-23",
+      "title": "Hantavirus preparedness at human-rodent interfaces: lessons from China's HFRS control and Andes virus transmission in mobile populations.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42773773/",
+      "doi": "10.1080/22221751.2026.2721722"
+    },
+    "42770103": {
+      "date": "2026-09-23",
+      "title": "Ameliorative effects of Spirulina on acute lead acetate toxicity complications in male rats.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770103/",
+      "doi": "10.22038/ajp.2025.27148"
     }
   },
   "history": [
-    {
-      "date": "2026-07-18",
-      "pmids": [
-        "42469853"
-      ]
-    },
     {
       "date": "2026-07-19",
       "pmids": [
@@ -2065,6 +2087,15 @@
       "date": "2026-09-22",
       "pmids": [
         "42766214"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "pmids": [
+        "42771981",
+        "42771980",
+        "42773773",
+        "42770103"
       ]
     }
   ]
