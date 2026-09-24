@@ -1602,15 +1602,30 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770103/",
       "doi": "10.22038/ajp.2025.27148"
+    },
+    "42775181": {
+      "date": "2026-09-24",
+      "title": "Molecular Mechanisms of Indoor Environmental Pollution tt-DDE-Induced Blood Pressure Elevation and the Protective Role of Human-Specific Gene CHRFAM7A.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42775181/",
+      "doi": "10.1021/envhealth.5c00703"
+    },
+    "42775203": {
+      "date": "2026-09-24",
+      "title": "Transport of Perfluoroalkyl Substances (PFAS) by Three Renal Transporters: Implications for PFAS Bioaccumulation Mechanisms.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42775203/",
+      "doi": "10.1021/envhealth.6c00088"
+    },
+    "42777797": {
+      "date": "2026-09-24",
+      "title": "Chloroxylenol induces hematopoietic bias and immune dysregulation in zebrafish associated with MAPK signaling disruption.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777797/",
+      "doi": "10.1016/j.cbi.2026.112349"
     }
   },
   "history": [
-    {
-      "date": "2026-07-19",
-      "pmids": [
-        "42471526"
-      ]
-    },
     {
       "date": "2026-07-21",
       "pmids": [
@@ -2096,6 +2111,14 @@
         "42771980",
         "42773773",
         "42770103"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "pmids": [
+        "42775181",
+        "42775203",
+        "42777797"
       ]
     }
   ]
