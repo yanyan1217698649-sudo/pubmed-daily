@@ -1623,19 +1623,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777797/",
       "doi": "10.1016/j.cbi.2026.112349"
+    },
+    "42785617": {
+      "date": "2026-09-25",
+      "title": "Wolf hair for biomonitoring arsenic, selenium, cadmium and lead exposure: a comparative study with internal organs.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42785617/",
+      "doi": "10.1016/j.envpol.2026.129237"
+    },
+    "42781557": {
+      "date": "2026-09-25",
+      "title": "Association and Mechanistic Insights Linking Bisphenol A to Psoriasis: Integrative Analysis of Bulk Transcriptomics, Network Toxicology, Mendelian Randomization and Single‑cell RNA Sequencing.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42781557/",
+      "doi": "10.2147/CCID.S620116"
+    },
+    "42786455": {
+      "date": "2026-09-25",
+      "title": "Residential altitude, aerosol optical depth, and diagnostic composition of biopsy-confirmed renal diseases: a single-center renal biopsy study from Yunnan, China.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42786455/",
+      "doi": "10.1186/s12882-026-05386-y"
+    },
+    "42783608": {
+      "date": "2026-09-25",
+      "title": "Arsenic in Drinking Water and Human Biomonitoring in Eastern Croatia: An Exploratory Environmental Health Study.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42783608/",
+      "doi": "10.3390/jox16050165"
+    },
+    "42782210": {
+      "date": "2026-09-25",
+      "title": "Multilevel Mechanisms by Which Membrane Transport Proteins Regulate Plant Responses to Heavy Metal Stress: From Ion Perception and Uptake Control to Systemic Signaling and Translational Perspectives.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782210/",
+      "doi": "10.1111/pce.70915"
     }
   },
   "history": [
-    {
-      "date": "2026-07-21",
-      "pmids": [
-        "42474835",
-        "42474879",
-        "42476233",
-        "42474018",
-        "42475953"
-      ]
-    },
     {
       "date": "2026-07-22",
       "pmids": [
@@ -2119,6 +2144,16 @@
         "42775181",
         "42775203",
         "42777797"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "pmids": [
+        "42785617",
+        "42781557",
+        "42786455",
+        "42783608",
+        "42782210"
       ]
     }
   ]
