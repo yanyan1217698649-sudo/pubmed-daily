@@ -1658,15 +1658,44 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782210/",
       "doi": "10.1111/pce.70915"
+    },
+    "42790108": {
+      "date": "2026-09-26",
+      "title": "Network-guided multi-omics characterizes stress-associated transcriptional and metabolic alterations in PFOA-exposed HK-2 proximal tubular cells.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790108/",
+      "doi": "10.1016/j.ecoenv.2026.120839"
+    },
+    "42797725": {
+      "date": "2026-09-26",
+      "title": "Comparative Analysis of Cadmium Profiles in Liver, Kidney, and Muscle of Bovines, Equines, and Cervids.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42797725/",
+      "doi": "10.3390/toxics14090806"
+    },
+    "42792250": {
+      "date": "2026-09-26",
+      "title": "Nifuroxazide Pretreatment Protects Against Acute CdCl2 Exposure-Induced Toxicity via Modulating the USP21/AIM2 Inflammasome Axis.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42792250/",
+      "doi": "10.3390/antiox15091211"
+    },
+    "42797681": {
+      "date": "2026-09-26",
+      "title": "Association Between Lifetime Cadmium Intake and Urinary Cadmium Concentration Among Residents of the Jinzu River Basin Following Soil Remediation.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42797681/",
+      "doi": "10.3390/toxics14090762"
+    },
+    "42787939": {
+      "date": "2026-09-26",
+      "title": "The efficacy of sap obtained from Commiphora gileadensis against cadmium-induced hepatorenal toxicity in male rats.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42787939/",
+      "doi": "10.17221/86/2025-VETMED"
     }
   },
   "history": [
-    {
-      "date": "2026-07-22",
-      "pmids": [
-        "42480139"
-      ]
-    },
     {
       "date": "2026-07-23",
       "pmids": [
@@ -2154,6 +2183,16 @@
         "42786455",
         "42783608",
         "42782210"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "pmids": [
+        "42790108",
+        "42797725",
+        "42792250",
+        "42797681",
+        "42787939"
       ]
     }
   ]
