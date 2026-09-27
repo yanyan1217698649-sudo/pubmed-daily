@@ -1693,19 +1693,44 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42787939/",
       "doi": "10.17221/86/2025-VETMED"
+    },
+    "42800621": {
+      "date": "2026-09-27",
+      "title": "Integrative Network Toxicology and Experimental Validation Define Mechanisms of Perfluorodecanoic Acid (PFDA) Induced Granulosa Cell Toxicity and Attenuation by Kaempferol in HGrC1 Cells.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42800621/",
+      "doi": "10.1016/j.reprotox.2026.109368"
+    },
+    "42800692": {
+      "date": "2026-09-27",
+      "title": "Epigenetic Reprogramming in Cadmium-Associated Liver Injury: Evidence, Mechanistic Insights, and Therapeutic Perspectives.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42800692/",
+      "doi": "10.1016/j.etap.2026.105178"
+    },
+    "42793007": {
+      "date": "2026-09-27",
+      "title": "A Database-Derived Phthalate Ester-Ankylosing Spondylitis Signature Identifies an AP-1/CXCL8 Inflammatory Classical-Monocyte Program.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42793007/",
+      "doi": "10.3390/genes17091113"
+    },
+    "42795624": {
+      "date": "2026-09-27",
+      "title": "Differences in Oropharyngeal Viromes Between Surviving and Deceased Malayan Pangolins in a Rescue Context.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42795624/",
+      "doi": "10.3390/microorganisms14092043"
+    },
+    "42799294": {
+      "date": "2026-09-27",
+      "title": "Profound Hemolytic Anemia in Babesiosis With Lyme Disease Coinfection and Occult Strongyloidiasis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42799294/",
+      "doi": "10.7759/cureus.115255"
     }
   },
   "history": [
-    {
-      "date": "2026-07-23",
-      "pmids": [
-        "42484788",
-        "42485721",
-        "42486287",
-        "42486290",
-        "42482197"
-      ]
-    },
     {
       "date": "2026-07-24",
       "pmids": [
@@ -2193,6 +2218,16 @@
         "42792250",
         "42797681",
         "42787939"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "pmids": [
+        "42800621",
+        "42800692",
+        "42793007",
+        "42795624",
+        "42799294"
       ]
     }
   ]
