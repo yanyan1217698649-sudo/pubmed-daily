@@ -1728,19 +1728,30 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42799294/",
       "doi": "10.7759/cureus.115255"
+    },
+    "42801899": {
+      "date": "2026-09-28",
+      "title": "PFOS increases cellular uric acid content and the abundance of URAT1 and GLUT9 in HK-2 cells.",
+      "score": 21,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42801899/",
+      "doi": "10.1016/j.ecoenv.2026.120851"
+    },
+    "42802011": {
+      "date": "2026-09-28",
+      "title": "Dietary Bisphenol-A Exposure Induces Oxidative Stress-Mediated Developmental Renal Toxicity in Drosophila melanogaster.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42802011/",
+      "doi": "10.1002/jat.70411"
+    },
+    "42800294": {
+      "date": "2026-09-28",
+      "title": "Vanadium in environmental and biological systems: From industrial contaminant to insulin-mimetic agent.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42800294/",
+      "doi": "10.1016/j.jtemb.2026.127965"
     }
   },
   "history": [
-    {
-      "date": "2026-07-24",
-      "pmids": [
-        "42489718",
-        "42494487",
-        "42491390",
-        "42491343",
-        "42491305"
-      ]
-    },
     {
       "date": "2026-07-25",
       "pmids": [
@@ -2228,6 +2239,14 @@
         "42793007",
         "42795624",
         "42799294"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "pmids": [
+        "42801899",
+        "42802011",
+        "42800294"
       ]
     }
   ]
