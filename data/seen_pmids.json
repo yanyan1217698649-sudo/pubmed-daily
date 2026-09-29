@@ -1749,18 +1749,16 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42800294/",
       "doi": "10.1016/j.jtemb.2026.127965"
+    },
+    "42806268": {
+      "date": "2026-09-29",
+      "title": "Effects of Arsenic Trioxide in MRL/lpr Mice: Disease-Context Support from Human Transcriptomic and DNA Methylation Datasets.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42806268/",
+      "doi": "10.1007/s12011-026-05260-w"
     }
   },
   "history": [
-    {
-      "date": "2026-07-25",
-      "pmids": [
-        "42497931",
-        "42498637",
-        "42499143",
-        "42496790"
-      ]
-    },
     {
       "date": "2026-07-26",
       "pmids": [
@@ -2247,6 +2245,12 @@
         "42801899",
         "42802011",
         "42800294"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "pmids": [
+        "42806268"
       ]
     }
   ]
