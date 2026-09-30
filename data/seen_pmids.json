@@ -1756,17 +1756,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42806268/",
       "doi": "10.1007/s12011-026-05260-w"
+    },
+    "42809972": {
+      "date": "2026-09-30",
+      "title": "Gestational prednisone exposure causes subfertility in male offspring mice: Role of testicular E2f1 N6-methyladenosine modification.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809972/",
+      "doi": "10.1016/j.jhazmat.2026.143752"
+    },
+    "42807872": {
+      "date": "2026-09-30",
+      "title": "Analyzing the cytotoxicity and pro-tumorigenic role of acetyl tributyl citrate in prostate through network toxicology and the immune microenvironment.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42807872/",
+      "doi": "10.3389/fimmu.2026.1758050"
+    },
+    "42810259": {
+      "date": "2026-09-30",
+      "title": "Integrated network toxicology and multiomics analyses reveal the mechanisms underlying trimethyltin chloride-induced epilepsy and the ameliorative effects of astaxanthin via NFKB1 and IL6.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810259/",
+      "doi": "10.1016/j.ecoenv.2026.120870"
+    },
+    "42807448": {
+      "date": "2026-09-30",
+      "title": "Long-term PM2.5 exposure and incident heart failure in the UK Biobank: relative and absolute risk estimates.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42807448/",
+      "doi": "10.3389/fpubh.2026.1864868"
+    },
+    "42810262": {
+      "date": "2026-09-30",
+      "title": "Integrative multi-omics analysis identifies programmed cell death-related biomarkers and their environmentally relevant toxicological interactions in abdominal aortic aneurysm.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810262/",
+      "doi": "10.1016/j.ecoenv.2026.120853"
     }
   },
   "history": [
-    {
-      "date": "2026-07-26",
-      "pmids": [
-        "42501684",
-        "42501686",
-        "42501774"
-      ]
-    },
     {
       "date": "2026-07-27",
       "pmids": [
@@ -2251,6 +2278,16 @@
       "date": "2026-09-29",
       "pmids": [
         "42806268"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "pmids": [
+        "42809972",
+        "42807872",
+        "42810259",
+        "42807448",
+        "42810262"
       ]
     }
   ]
