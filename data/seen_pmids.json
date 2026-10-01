@@ -1791,15 +1791,44 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810262/",
       "doi": "10.1016/j.ecoenv.2026.120853"
+    },
+    "42815658": {
+      "date": "2026-10-01",
+      "title": "Urinary cadmium exposure and biomarkers of inflammation, lipid peroxidation, and kidney injury in apparently healthy adults from the Central Region of Mexico.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815658/",
+      "doi": "10.1016/j.etap.2026.105182"
+    },
+    "42812597": {
+      "date": "2026-10-01",
+      "title": "An integrated network toxicology and multi-omics framework prioritizes BRCA1 as a testable candidate in benzo[a]pyrene-associated oral cancer.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42812597/",
+      "doi": "10.3389/fphar.2026.1940046"
+    },
+    "42814260": {
+      "date": "2026-10-01",
+      "title": "Copper bionanocomposite mitigates arsenic toxicity in Oreochromis niloticus.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42814260/",
+      "doi": "10.1186/s11671-026-04944-5"
+    },
+    "42815322": {
+      "date": "2026-10-01",
+      "title": "Potential mechanisms linking polyethylene terephthalate microplastic-associated exposure factors to abnormal biomineralization.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815322/",
+      "doi": "10.1016/j.compbiolchem.2026.109449"
+    },
+    "42815190": {
+      "date": "2026-10-01",
+      "title": "Identification of shared and divergent molecular pathways linking ambient air pollutants to mortality and major chronic diseases through proteomic profiling.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815190/",
+      "doi": "10.1016/j.redox.2026.104411"
     }
   },
   "history": [
-    {
-      "date": "2026-07-27",
-      "pmids": [
-        "42503588"
-      ]
-    },
     {
       "date": "2026-07-28",
       "pmids": [
@@ -2288,6 +2317,16 @@
         "42810259",
         "42807448",
         "42810262"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "pmids": [
+        "42815658",
+        "42812597",
+        "42814260",
+        "42815322",
+        "42815190"
       ]
     }
   ]
