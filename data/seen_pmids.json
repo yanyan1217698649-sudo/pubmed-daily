@@ -1826,19 +1826,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815190/",
       "doi": "10.1016/j.redox.2026.104411"
+    },
+    "42822936": {
+      "date": "2026-10-02",
+      "title": "Allium polyrhizum Turcz. flavonoids extract alleviates cadmium-induced renal injury through differential regulation of autophagy mediated by mTORC1 and mTORC2.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42822936/",
+      "doi": "10.1016/j.jes.2026.05.046"
+    },
+    "42819301": {
+      "date": "2026-10-02",
+      "title": "Protective effect of Panax ginseng on AlCl₃-induced liver, kidney, and testis toxicity in male albino rats: biochemical, histopathological, and molecular study.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42819301/",
+      "doi": "10.3389/fvets.2026.1925382"
+    },
+    "42818007": {
+      "date": "2026-10-02",
+      "title": "Aquaporin-9 and aquaporin-10 but not aquaporin-3 confer susceptibility to dimethylarsinic acid genotoxicity in human cells.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42818007/",
+      "doi": "10.64898/2026.09.20.752519"
+    },
+    "42821027": {
+      "date": "2026-10-02",
+      "title": "From plastic to pathophysiology: polyethylene (PE) and polyvinyl chloride (PVC) microplastics disrupt fish blood, metabolism, and growth.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42821027/",
+      "doi": "10.1007/s10646-026-03175-9"
+    },
+    "42820077": {
+      "date": "2026-10-02",
+      "title": "A Comprehensive Review on Copper Oxide Nanoparticles: Physicochemical Parameters, Pharmacological Potential and Pathophysiological Effects.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42820077/",
+      "doi": "10.2147/IJN.S592672"
     }
   },
   "history": [
-    {
-      "date": "2026-07-28",
-      "pmids": [
-        "42509745",
-        "42509732",
-        "42512951",
-        "42514680",
-        "42510548"
-      ]
-    },
     {
       "date": "2026-07-29",
       "pmids": [
@@ -2327,6 +2352,16 @@
         "42814260",
         "42815322",
         "42815190"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "pmids": [
+        "42822936",
+        "42819301",
+        "42818007",
+        "42821027",
+        "42820077"
       ]
     }
   ]
