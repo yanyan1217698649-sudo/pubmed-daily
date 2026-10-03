@@ -1861,19 +1861,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42820077/",
       "doi": "10.2147/IJN.S592672"
+    },
+    "42825974": {
+      "date": "2026-10-03",
+      "title": "Bisphenol A Exposure Perturbs the Immune Microenvironment in Alzheimer's Disease: Insights from Network Toxicology and Single-Cell Transcriptomics.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42825974/",
+      "doi": "10.1007/s12031-026-02606-w"
     }
   },
   "history": [
-    {
-      "date": "2026-07-29",
-      "pmids": [
-        "42517613",
-        "42515120",
-        "42515181",
-        "42508794",
-        "42510891"
-      ]
-    },
     {
       "date": "2026-07-30",
       "pmids": [
@@ -2362,6 +2359,12 @@
         "42818007",
         "42821027",
         "42820077"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "pmids": [
+        "42825974"
       ]
     }
   ]
