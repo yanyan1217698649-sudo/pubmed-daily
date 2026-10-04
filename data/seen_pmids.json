@@ -1868,17 +1868,16 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42825974/",
       "doi": "10.1007/s12031-026-02606-w"
+    },
+    "42828838": {
+      "date": "2026-10-04",
+      "title": "Single-cell transcriptomic analysis reveals endothelial mitochondrial dysfunction and synaptic impairment underlying arsenic-induced hippocampal neurotoxicity in mice.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42828838/",
+      "doi": "10.1016/j.ecoenv.2026.120881"
     }
   },
   "history": [
-    {
-      "date": "2026-07-30",
-      "pmids": [
-        "42526577",
-        "42525627",
-        "42524077"
-      ]
-    },
     {
       "date": "2026-07-31",
       "pmids": [
@@ -2365,6 +2364,12 @@
       "date": "2026-10-03",
       "pmids": [
         "42825974"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "pmids": [
+        "42828838"
       ]
     }
   ]
