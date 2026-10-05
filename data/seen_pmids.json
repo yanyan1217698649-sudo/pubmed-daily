@@ -1875,19 +1875,30 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42828838/",
       "doi": "10.1016/j.ecoenv.2026.120881"
+    },
+    "42817229": {
+      "date": "2026-10-05",
+      "title": "Microplastics and IgA nephropathy: a novel environmental hypothesis of immune dysregulation.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817229/",
+      "doi": "10.1080/0886022X.2026.2735540"
+    },
+    "42822638": {
+      "date": "2026-10-05",
+      "title": "From stable to table: Tracing the \"forever chemical\" vector through the food animal supply chain.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42822638/",
+      "doi": "10.1016/j.fct.2026.116419"
+    },
+    "42810055": {
+      "date": "2026-10-05",
+      "title": "Corrigendum to \"Ferritinophagy is involved in Bisphenol A-induced ferroptosis of renal tubular epithelial cells through the activation of the AMPK-mTOR-ULK1 pathway\" [Food Chem. Toxicol. 163, (2022), 112909].",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810055/",
+      "doi": "10.1016/j.fct.2026.116404"
     }
   },
   "history": [
-    {
-      "date": "2026-07-31",
-      "pmids": [
-        "42531719",
-        "42531744",
-        "42530798",
-        "42531928",
-        "42533197"
-      ]
-    },
     {
       "date": "2026-08-01",
       "pmids": [
@@ -2370,6 +2381,14 @@
       "date": "2026-10-04",
       "pmids": [
         "42828838"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "pmids": [
+        "42817229",
+        "42822638",
+        "42810055"
       ]
     }
   ]
