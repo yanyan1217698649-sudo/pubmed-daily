@@ -1896,17 +1896,23 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810055/",
       "doi": "10.1016/j.fct.2026.116404"
+    },
+    "42838884": {
+      "date": "2026-10-07",
+      "title": "Single-cell study of human ovarian response to phthalate exposure reveals glial cell susceptibility and disruption of adhesion and mitochondrial pathways.",
+      "score": 18,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42838884/",
+      "doi": "10.1016/j.ebiom.2026.106487"
+    },
+    "42837932": {
+      "date": "2026-10-07",
+      "title": "Investigation of molecular effects of beta caryophyllene in cadmium-induced nephrotoxicity model in rats: in silico and in vivo studies.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42837932/",
+      "doi": "10.1016/j.jtemb.2026.127969"
     }
   },
   "history": [
-    {
-      "date": "2026-08-01",
-      "pmids": [
-        "42535947",
-        "42537208",
-        "42532297"
-      ]
-    },
     {
       "date": "2026-08-02",
       "pmids": [
@@ -2389,6 +2395,13 @@
         "42817229",
         "42822638",
         "42810055"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "pmids": [
+        "42838884",
+        "42837932"
       ]
     }
   ]
