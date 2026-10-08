@@ -1910,17 +1910,44 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42837932/",
       "doi": "10.1016/j.jtemb.2026.127969"
+    },
+    "42842346": {
+      "date": "2026-10-08",
+      "title": "Evaluation of Hepatotoxic and Nephrotoxic Effects of Hexachlorobenzene, DDT, and p,p'-DDE in Rats.",
+      "score": 18,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842346/",
+      "doi": "10.1002/tox.70200"
+    },
+    "42843001": {
+      "date": "2026-10-08",
+      "title": "Polystyrene microplastics induce nephrotoxicity through impaired mitochondrial homeostasis: An integrated experimental study.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42843001/",
+      "doi": "10.1016/j.tice.2026.104026"
+    },
+    "42841671": {
+      "date": "2026-10-08",
+      "title": "Renal Tubular Epithelial Cells Senescence Induced by 1-Aminopyrene Activates Fibroblast via BRD4 Driven Senescence-Associated Secretory Phenotype Signaling.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42841671/",
+      "doi": "10.1002/jbt.71124"
+    },
+    "42840869": {
+      "date": "2026-10-08",
+      "title": "Exposure-shaped immunometabolic networks in chronic liver disease: translating multi-omics and artificial intelligence into preventive biomarkers.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840869/",
+      "doi": "10.3389/fimmu.2026.1866951"
+    },
+    "42845118": {
+      "date": "2026-10-08",
+      "title": "Splenic Toxicity and Gene Expression Alterations Induced by Perfluorobutanesulfonic Acid (PFBS) Ingestion in Sprague Dawley Rats.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42845118/",
+      "doi": "10.1080/15376516.2026.2745930"
     }
   },
   "history": [
-    {
-      "date": "2026-08-02",
-      "pmids": [
-        "42541405",
-        "42540965",
-        "42542433"
-      ]
-    },
     {
       "date": "2026-08-05",
       "pmids": [
@@ -2402,6 +2429,16 @@
       "pmids": [
         "42838884",
         "42837932"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "pmids": [
+        "42842346",
+        "42843001",
+        "42841671",
+        "42840869",
+        "42845118"
       ]
     }
   ]
