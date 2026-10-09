@@ -1945,16 +1945,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42845118/",
       "doi": "10.1080/15376516.2026.2745930"
+    },
+    "42848225": {
+      "date": "2026-10-09",
+      "title": "Potential targets and mechanisms of Di(2-ethylhexyl) phthalate exposure in inducing chronic kidney disease: a multimodal study integrating epidemiology, network toxicology, and Mendelian randomization.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848225/",
+      "doi": "10.1007/s00210-026-05972-9"
+    },
+    "42850723": {
+      "date": "2026-10-09",
+      "title": "A bibliometric analysis of trace elements and diabetic kidney disease: scientific hotspots and research evolution.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42850723/",
+      "doi": "10.1080/0886022X.2026.2736897"
+    },
+    "42849766": {
+      "date": "2026-10-09",
+      "title": "Maternal Exposure to Microplastics and Nanoplastics: Placental Lipid Metabolic Dysregulation as a Potential Link to Fetal Growth Restriction.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849766/",
+      "doi": "10.1016/j.reprotox.2026.109375"
+    },
+    "42849692": {
+      "date": "2026-10-09",
+      "title": "Association between Long-term Exposure to Air Pollution and Incident Chronic Kidney Disease among Adults in Beijing, China.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849692/",
+      "doi": "10.1016/j.envpol.2026.129302"
+    },
+    "42849086": {
+      "date": "2026-10-09",
+      "title": "Re-evaluating the neuroprotective landscape of Nigella sativa: Molecular mechanisms, nanomedicine, and clinical translation.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849086/",
+      "doi": "10.1016/j.coph.2026.102676"
     }
   },
   "history": [
-    {
-      "date": "2026-08-05",
-      "pmids": [
-        "42551918",
-        "42551371"
-      ]
-    },
     {
       "date": "2026-08-06",
       "pmids": [
@@ -2439,6 +2467,16 @@
         "42841671",
         "42840869",
         "42845118"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "pmids": [
+        "42848225",
+        "42850723",
+        "42849766",
+        "42849692",
+        "42849086"
       ]
     }
   ]
