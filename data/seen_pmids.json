@@ -1980,16 +1980,37 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849086/",
       "doi": "10.1016/j.coph.2026.102676"
+    },
+    "42852524": {
+      "date": "2026-10-10",
+      "title": "Edaravone Mitigates Di(2-ethylhexyl) Phthalate-Induced Nephrotoxicity Through Attenuation of Oxidative Stress and Endoplasmic Reticulum Stress.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42852524/",
+      "doi": "10.1002/jbt.71125"
+    },
+    "42854375": {
+      "date": "2026-10-10",
+      "title": "Placenta-derived CXCL1 is associated with fetal renal dysplasia upon gestational cadmium treatment.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854375/",
+      "doi": "10.1016/j.ecoenv.2026.120898"
+    },
+    "42853351": {
+      "date": "2026-10-10",
+      "title": "Polyethylene Microplastics and Cardiometabolic Mitochondrial-Redox Dysfunction in Preclinical Rodent Models: A Systematic Review and Meta-Analysis of Bioenergetic and Oxidative Stress Outcomes Across Target Organs.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42853351/",
+      "doi": "10.1007/s12012-026-10203-x"
+    },
+    "42852147": {
+      "date": "2026-10-10",
+      "title": "Differential toxicity of water- and DMSO-extractable PM2.5 fractions in human alveolar organoids.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42852147/",
+      "doi": "10.3389/ftox.2026.1943932"
     }
   },
   "history": [
-    {
-      "date": "2026-08-06",
-      "pmids": [
-        "42554815",
-        "42552472"
-      ]
-    },
     {
       "date": "2026-08-07",
       "pmids": [
@@ -2477,6 +2498,15 @@
         "42849766",
         "42849692",
         "42849086"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "pmids": [
+        "42852524",
+        "42854375",
+        "42853351",
+        "42852147"
       ]
     }
   ]
