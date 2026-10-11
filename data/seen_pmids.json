@@ -2008,19 +2008,23 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42852147/",
       "doi": "10.3389/ftox.2026.1943932"
+    },
+    "42858774": {
+      "date": "2026-10-11",
+      "title": "Successful bilateral lung transplantation in a patient with severe pulmonary blastomycosis.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858774/",
+      "doi": "10.1016/j.ajt.2026.10.008"
+    },
+    "42858833": {
+      "date": "2026-10-11",
+      "title": "Advances in genetically engineered and humanized mouse models for dissecting sepsis mechanisms and therapeutic response.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858833/",
+      "doi": "10.1016/j.clim.2026.110782"
     }
   },
   "history": [
-    {
-      "date": "2026-08-07",
-      "pmids": [
-        "42558352",
-        "42558478",
-        "42560444",
-        "42562661",
-        "42556040"
-      ]
-    },
     {
       "date": "2026-08-08",
       "pmids": [
@@ -2507,6 +2511,13 @@
         "42854375",
         "42853351",
         "42852147"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "pmids": [
+        "42858774",
+        "42858833"
       ]
     }
   ]
