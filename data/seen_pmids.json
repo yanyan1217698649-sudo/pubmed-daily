@@ -2022,16 +2022,23 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858833/",
       "doi": "10.1016/j.clim.2026.110782"
+    },
+    "42861259": {
+      "date": "2026-10-12",
+      "title": "Blood lead exposure, renal hyperfiltration, and accelerated kidney function decline among people living with HIV in northern Tanzania: A longitudinal cohort study.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42861259/",
+      "doi": "10.1016/j.toxrep.2026.102348"
+    },
+    "42860217": {
+      "date": "2026-10-12",
+      "title": "Integrative Multi-Omics Analysis Reveals FAAH and LIPE as Candidate Targets in OBS-Induced Spermatogenic and Fertility Impairment.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42860217/",
+      "doi": "10.1016/j.fct.2026.116440"
     }
   },
   "history": [
-    {
-      "date": "2026-08-08",
-      "pmids": [
-        "42566621",
-        "42565574"
-      ]
-    },
     {
       "date": "2026-08-09",
       "pmids": [
@@ -2518,6 +2525,13 @@
       "pmids": [
         "42858774",
         "42858833"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "pmids": [
+        "42861259",
+        "42860217"
       ]
     }
   ]
