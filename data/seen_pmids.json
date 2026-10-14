@@ -2050,18 +2050,23 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42863292/",
       "doi": "10.1016/j.ecoenv.2026.120914"
+    },
+    "42869363": {
+      "date": "2026-10-14",
+      "title": "Early-Life exposure to environmental pollutants and endocrine disruptors: emerging risks and mechanistic insights in maternal, fetal, and child health.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42869363/",
+      "doi": "10.1016/j.envres.2026.125878"
+    },
+    "42867580": {
+      "date": "2026-10-14",
+      "title": "Occurrence, distribution and potential sources of phthalate and non-phthalate plasticizers in maternal and fetal-related biological matrices.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867580/",
+      "doi": "10.1007/s10653-026-03540-x"
     }
   },
   "history": [
-    {
-      "date": "2026-08-11",
-      "pmids": [
-        "42575918",
-        "42575853",
-        "42575350",
-        "42574534"
-      ]
-    },
     {
       "date": "2026-08-12",
       "pmids": [
@@ -2547,6 +2552,13 @@
       "pmids": [
         "42863561",
         "42863292"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "pmids": [
+        "42869363",
+        "42867580"
       ]
     }
   ]
