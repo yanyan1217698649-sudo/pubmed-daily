@@ -2064,17 +2064,37 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867580/",
       "doi": "10.1007/s10653-026-03540-x"
+    },
+    "42874982": {
+      "date": "2026-10-15",
+      "title": "Health Risks of Cyanotoxin Contamination in Dietary Supplements: Mechanistic Insights into Organ-Specific Toxicity.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874982/",
+      "doi": "10.1016/j.fct.2026.116449"
+    },
+    "42874876": {
+      "date": "2026-10-15",
+      "title": "High Normal dietary casein attenuates bisphenol A-induced multiorgan toxicity in rats: Preservation of renal integrity, glucose homeostasis, and immune surveillance via modulation of oxidative stress, inflammation, and apoptosis.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874876/",
+      "doi": "10.1016/j.taap.2026.118085"
+    },
+    "42871276": {
+      "date": "2026-10-15",
+      "title": "Genetic evidence and multi-omics characterization of DEHP-relevant detoxification and metabolic heterogeneity in hepatocellular carcinoma.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42871276/",
+      "doi": "10.3389/ftox.2026.1925431"
+    },
+    "42874323": {
+      "date": "2026-10-15",
+      "title": "Toward operationally reliable PFAS quantification in complex liver matrices: Systematic optimization of commercial Cleanup cartridges for LC-MS/MS analysis.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874323/",
+      "doi": "10.1016/j.jchromb.2026.125337"
     }
   },
   "history": [
-    {
-      "date": "2026-08-12",
-      "pmids": [
-        "42580257",
-        "42579053",
-        "42577763"
-      ]
-    },
     {
       "date": "2026-08-13",
       "pmids": [
@@ -2559,6 +2579,15 @@
       "pmids": [
         "42869363",
         "42867580"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "pmids": [
+        "42874982",
+        "42874876",
+        "42871276",
+        "42874323"
       ]
     }
   ]
