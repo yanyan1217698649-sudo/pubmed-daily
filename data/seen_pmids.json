@@ -2092,19 +2092,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874323/",
       "doi": "10.1016/j.jchromb.2026.125337"
+    },
+    "42880058": {
+      "date": "2026-10-16",
+      "title": "Integrative multi-omics analysis reveals the PFAS-gut microbiome-FN1 axis in chronic kidney disease: From exposome to therapeutic target.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880058/",
+      "doi": "10.1016/j.compbiolchem.2026.109478"
+    },
+    "42880493": {
+      "date": "2026-10-16",
+      "title": "The mtROS-Stat1 Axis Defines an Acinar Dysfunctional State Linking Metabolic Stress to Immune Activation in Cigarette Smoking-Associated Dry Eye Disease.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880493/",
+      "doi": "10.1016/j.jtos.2026.10.002"
+    },
+    "42883351": {
+      "date": "2026-10-16",
+      "title": "N6-Methyladenosine and 5-Methylcytosine Epitranscriptomic Regulation of Male Reproduction and Fertility.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883351/",
+      "doi": "10.3390/biology15191678"
+    },
+    "42883084": {
+      "date": "2026-10-16",
+      "title": "Dietary Cadmium Exposure in Black Goats: Impacts on Growth Performance, Serum Biochemical and Immune Parameters, Meat Quality, and Tissue Accumulation.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883084/",
+      "doi": "10.3390/ani16193115"
+    },
+    "42883568": {
+      "date": "2026-10-16",
+      "title": "Point-of-Purchase Patterns of Cadmium, Lead, and Other Toxic Elements in Houttuynia cordata Thunb. Rhizomes from Retail Markets Across Guizhou, China.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883568/",
+      "doi": "10.3390/foods15193461"
     }
   },
   "history": [
-    {
-      "date": "2026-08-13",
-      "pmids": [
-        "42583340",
-        "42584958",
-        "42581170",
-        "42581408",
-        "42584453"
-      ]
-    },
     {
       "date": "2026-08-14",
       "pmids": [
@@ -2588,6 +2613,16 @@
         "42874876",
         "42871276",
         "42874323"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "pmids": [
+        "42880058",
+        "42880493",
+        "42883351",
+        "42883084",
+        "42883568"
       ]
     }
   ]
