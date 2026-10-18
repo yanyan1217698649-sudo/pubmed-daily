@@ -2127,18 +2127,30 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883568/",
       "doi": "10.3390/foods15193461"
+    },
+    "42892292": {
+      "date": "2026-10-18",
+      "title": "Single cell ICP-MS reveals diversity in cadmium response across individual cells of three marine phytoplankton species.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892292/",
+      "doi": "10.1016/j.ecoenv.2026.120940"
+    },
+    "42892262": {
+      "date": "2026-10-18",
+      "title": "Identification of priority gaseous component in biodiesel exhaust and its potential pulmonary hazards: a data-driven screening and validation strategy.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892262/",
+      "doi": "10.1016/j.envint.2026.110558"
+    },
+    "42892536": {
+      "date": "2026-10-18",
+      "title": "Urinary KIM-1 Transcript Detectability in Workers Chronically Exposed to Arsenic and Antimony in an Industrial Area of Central Chile: A Cross-Sectional Pilot Study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892536/",
+      "doi": "10.1016/j.etap.2026.105200"
     }
   },
   "history": [
-    {
-      "date": "2026-08-14",
-      "pmids": [
-        "42594829",
-        "42591639",
-        "42590896",
-        "42593355"
-      ]
-    },
     {
       "date": "2026-08-15",
       "pmids": [
@@ -2623,6 +2635,14 @@
         "42883351",
         "42883084",
         "42883568"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "pmids": [
+        "42892292",
+        "42892262",
+        "42892536"
       ]
     }
   ]
