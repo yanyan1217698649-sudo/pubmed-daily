@@ -2148,19 +2148,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892536/",
       "doi": "10.1016/j.etap.2026.105200"
+    },
+    "42901464": {
+      "date": "2026-10-21",
+      "title": "PFHxS promotes renal fibrosis via PPARγ overactivation-dependent NLRP1 inflammasome-driven pyroptosis.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42901464/",
+      "doi": "10.1016/j.envpol.2026.129374"
+    },
+    "42902292": {
+      "date": "2026-10-21",
+      "title": "Single cell RNA sequencing and emerging transcriptomic technologies in Alzheimer's disease cerebral organoids: a mini review.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902292/",
+      "doi": "10.1186/s13041-026-01335-w"
+    },
+    "42901468": {
+      "date": "2026-10-21",
+      "title": "Interactions Between Polycyclic Aromatic Hydrocarbon Exposure and Epigenetic Regulatory Genes in Embryonic Arrest.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42901468/",
+      "doi": "10.1016/j.envpol.2026.129385"
+    },
+    "42902226": {
+      "date": "2026-10-21",
+      "title": "Disseminated Nocardia brasiliensis causing septic arthritis in a patient with non-small cell lung adenocarcinoma: a case report.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902226/",
+      "doi": "10.1186/s12879-026-14064-1"
+    },
+    "42898561": {
+      "date": "2026-10-21",
+      "title": "Saroglitazar protects against cadmium-induced hepatorenal injury in rats by suppressing NF-κB and upregulating Nrf2.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898561/",
+      "doi": "10.3389/fphar.2026.1916439"
     }
   },
   "history": [
-    {
-      "date": "2026-08-15",
-      "pmids": [
-        "42597451",
-        "42599319",
-        "42595880",
-        "42600829",
-        "42600826"
-      ]
-    },
     {
       "date": "2026-08-16",
       "pmids": [
@@ -2643,6 +2668,16 @@
         "42892292",
         "42892262",
         "42892536"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "pmids": [
+        "42901464",
+        "42902292",
+        "42901468",
+        "42902226",
+        "42898561"
       ]
     }
   ]
