@@ -2183,15 +2183,16 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898561/",
       "doi": "10.3389/fphar.2026.1916439"
+    },
+    "42900011": {
+      "date": "2026-10-22",
+      "title": "Global environmental and cardiometabolic correlates of periodontitis- ischemic heart disease co-burden: a spatiotemporal network analysis.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900011/",
+      "doi": "10.3290/j.qi.b7131341"
     }
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "pmids": [
-        "42584724"
-      ]
-    },
     {
       "date": "2026-08-18",
       "pmids": [
@@ -2678,6 +2679,12 @@
         "42901468",
         "42902226",
         "42898561"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "pmids": [
+        "42900011"
       ]
     }
   ]
