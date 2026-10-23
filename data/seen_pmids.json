@@ -2190,15 +2190,23 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900011/",
       "doi": "10.3290/j.qi.b7131341"
+    },
+    "42904351": {
+      "date": "2026-10-23",
+      "title": "Assessment of Heavy Metal Exposure in Adult Patients with Minimal Change Disease: A Cross-sectional Case-Control Study.",
+      "score": 19,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904351/",
+      "doi": "10.4103/aam.aam_825_26"
+    },
+    "42907963": {
+      "date": "2026-10-23",
+      "title": "Cadmium exposure triggers a functional switch of APP to drive joint degeneration.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907963/",
+      "doi": "10.1186/s10020-026-01603-4"
     }
   },
   "history": [
-    {
-      "date": "2026-08-18",
-      "pmids": [
-        "42607984"
-      ]
-    },
     {
       "date": "2026-08-19",
       "pmids": [
@@ -2685,6 +2693,13 @@
       "date": "2026-10-22",
       "pmids": [
         "42900011"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "pmids": [
+        "42904351",
+        "42907963"
       ]
     }
   ]
