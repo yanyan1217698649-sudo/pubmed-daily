@@ -2204,17 +2204,44 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907963/",
       "doi": "10.1186/s10020-026-01603-4"
+    },
+    "42918596": {
+      "date": "2026-10-24",
+      "title": "Dose-specific reprogramming of the mucociliary-humoral immune interface in oysters upon biodegradable microplastics exposure.",
+      "score": 19,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918596/",
+      "doi": "10.1016/j.envpol.2026.129389"
+    },
+    "42913103": {
+      "date": "2026-10-24",
+      "title": "Multi-omics analysis reveals ITGA2 mediates DEHP-induced decidual endothelial dysfunction in recurrent pregnancy loss.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913103/",
+      "doi": "10.1016/j.ecoenv.2026.120960"
+    },
+    "42920511": {
+      "date": "2026-10-24",
+      "title": "Study on the promoting effect of microplastic exposure on prostate cancer migration and invasion based on network toxicology and single-cell sequencing technology.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42920511/",
+      "doi": "10.3389/fonc.2026.1973812"
+    },
+    "42920328": {
+      "date": "2026-10-24",
+      "title": "Assessing the Mutational Consequences of Chronic Arsenic Exposure Using Patient-Derived Tumor Samples and In Vitro Systems.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42920328/",
+      "doi": "10.1002/em.70079"
+    },
+    "42913954": {
+      "date": "2026-10-24",
+      "title": "Toxicological Effects of Polyethylene Terephthalate Microplastics on Chronic Kidney Disease: An Integrative Bioinformatics, Network Toxicology, and Machine Learning Study.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913954/",
+      "doi": "10.1016/j.ejps.2026.107694"
     }
   },
   "history": [
-    {
-      "date": "2026-08-19",
-      "pmids": [
-        "42610645",
-        "42610118",
-        "42612384"
-      ]
-    },
     {
       "date": "2026-08-20",
       "pmids": [
@@ -2700,6 +2727,16 @@
       "pmids": [
         "42904351",
         "42907963"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "pmids": [
+        "42918596",
+        "42913103",
+        "42920511",
+        "42920328",
+        "42913954"
       ]
     }
   ]
