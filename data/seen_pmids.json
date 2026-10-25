@@ -2239,19 +2239,23 @@
       "score": 11,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913954/",
       "doi": "10.1016/j.ejps.2026.107694"
+    },
+    "42926367": {
+      "date": "2026-10-25",
+      "title": "Triple-Omics Analysis Unveiled the Neuroprotective Mechanisms of Akkermansia muciniphila in an Environmental Exposure-Linked Mouse Model of Alzheimer's Disease.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42926367/",
+      "doi": "10.64898/2026.09.30.755812"
+    },
+    "42925465": {
+      "date": "2026-10-25",
+      "title": "Exposure to per- and polyfluoroalkyl substances and the odds of renal cell carcinoma: a case-control study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925465/",
+      "doi": "10.1007/s11356-026-38327-1"
     }
   },
   "history": [
-    {
-      "date": "2026-08-20",
-      "pmids": [
-        "42617961",
-        "42616453",
-        "42614422",
-        "42617263",
-        "42617555"
-      ]
-    },
     {
       "date": "2026-08-21",
       "pmids": [
@@ -2737,6 +2741,13 @@
         "42920511",
         "42920328",
         "42913954"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "pmids": [
+        "42926367",
+        "42925465"
       ]
     }
   ]
