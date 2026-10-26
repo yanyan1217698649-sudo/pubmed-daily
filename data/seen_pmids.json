@@ -2253,18 +2253,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925465/",
       "doi": "10.1007/s11356-026-38327-1"
+    },
+    "42928303": {
+      "date": "2026-10-26",
+      "title": "HDL-C as a mediator of PPCP-related kidney function decline in community-dwelling elderly: a mixture analysis approach.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928303/",
+      "doi": "10.1007/s10653-026-03562-5"
     }
   },
   "history": [
-    {
-      "date": "2026-08-21",
-      "pmids": [
-        "42620461",
-        "42622235",
-        "42622704",
-        "42624068"
-      ]
-    },
     {
       "date": "2026-08-22",
       "pmids": [
@@ -2748,6 +2746,12 @@
       "pmids": [
         "42926367",
         "42925465"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "pmids": [
+        "42928303"
       ]
     }
   ]
