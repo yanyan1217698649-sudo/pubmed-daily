@@ -2260,19 +2260,44 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928303/",
       "doi": "10.1007/s10653-026-03562-5"
+    },
+    "42931643": {
+      "date": "2026-10-27",
+      "title": "PLGA-Encapsulated Pterostilbene Mitigates Cadmium-Induced Nephrotoxicity in Rats by Modulating Oxidative Stress, Inflammation, and Apoptosis.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931643/",
+      "doi": "10.3390/toxics14100856"
+    },
+    "42933738": {
+      "date": "2026-10-27",
+      "title": "When the Exposure Matrix Is Also the Target Organ: Interpreting Urinary Phthalate Biomarkers in Pregnancy.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933738/",
+      "doi": "10.1016/j.reprotox.2026.109392"
+    },
+    "42933280": {
+      "date": "2026-10-27",
+      "title": "Strategy for mixture risk assessment using European human biomonitoring data: lessons learned from applications to pesticides, per- and polyfluoroalkyl substances and metal(loid)s.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933280/",
+      "doi": "10.1016/j.envint.2026.110560"
+    },
+    "42934433": {
+      "date": "2026-10-27",
+      "title": "Baseline assessment of potentially toxic elements in commercially important fish species from the coastal waters of Sur, Sultanate of Oman: tissue distribution and human health risk assessment.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42934433/",
+      "doi": "10.1007/s10661-026-16106-2"
+    },
+    "42933882": {
+      "date": "2026-10-27",
+      "title": "End-stage renal disease in the World Trade Center Clinical Centers of Excellence General Responders.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933882/",
+      "doi": "10.1136/oemed-2026-111008"
     }
   },
   "history": [
-    {
-      "date": "2026-08-22",
-      "pmids": [
-        "42628180",
-        "42628894",
-        "42628900",
-        "42626851",
-        "42626445"
-      ]
-    },
     {
       "date": "2026-08-23",
       "pmids": [
@@ -2752,6 +2777,16 @@
       "date": "2026-10-26",
       "pmids": [
         "42928303"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "pmids": [
+        "42931643",
+        "42933738",
+        "42933280",
+        "42934433",
+        "42933882"
       ]
     }
   ]
