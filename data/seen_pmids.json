@@ -2295,15 +2295,44 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933882/",
       "doi": "10.1136/oemed-2026-111008"
+    },
+    "42939685": {
+      "date": "2026-10-28",
+      "title": "Emerging Roles of FGFR3 and FGF23-Associated Signaling in Renal Fibrosis: Molecular Integration, Clinical Correlates, and Therapeutic Perspectives.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42939685/",
+      "doi": "10.3390/biom16101431"
+    },
+    "42941754": {
+      "date": "2026-10-28",
+      "title": "Microplastics and the Kidney: A Narrative Review of Human Evidence, Molecular Mechanisms of Cell Injury, and Future Directions.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42941754/",
+      "doi": "10.3390/ijms27208978"
+    },
+    "42945601": {
+      "date": "2026-10-28",
+      "title": "Bisphenol A induces ACSL4-associated ferro-aging-like urothelial injury: Implications for Hunner-type interstitial cystitis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945601/",
+      "doi": "10.1016/j.ecoenv.2026.120976"
+    },
+    "42940024": {
+      "date": "2026-10-28",
+      "title": "Integrated Analysis of Serotonin-Related Biomarkers in Thoracic Aortic Aneurysm Based on Machine Learning and Single-Cell Sequencing Data.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42940024/",
+      "doi": "10.3390/biomedicines14102218"
+    },
+    "42945667": {
+      "date": "2026-10-28",
+      "title": "Bisphenol A exacerbates chronic non-bacterial prostatitis by upregulating ITGAX and promoting M1 macrophage polarization.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945667/",
+      "doi": "10.1016/j.jhazmat.2026.143757"
     }
   },
   "history": [
-    {
-      "date": "2026-08-23",
-      "pmids": [
-        "42616296"
-      ]
-    },
     {
       "date": "2026-08-25",
       "pmids": [
@@ -2787,6 +2816,16 @@
         "42933280",
         "42934433",
         "42933882"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "pmids": [
+        "42939685",
+        "42941754",
+        "42945601",
+        "42940024",
+        "42945667"
       ]
     }
   ]
