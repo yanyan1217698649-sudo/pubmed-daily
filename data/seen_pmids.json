@@ -2330,18 +2330,44 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945667/",
       "doi": "10.1016/j.jhazmat.2026.143757"
+    },
+    "42949901": {
+      "date": "2026-10-29",
+      "title": "Elucidating the toxicogenomic mechanisms of DBP exposure on Hepatocellular carcinoma through network toxicology and molecular docking analysis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949901/",
+      "doi": "10.1371/journal.pone.0359516"
+    },
+    "42951528": {
+      "date": "2026-10-29",
+      "title": "Synergistically fluorinated triazine COFs as adsorption-ionization integrated matrix for analysis and in situ MALDI imaging of PFOS.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951528/",
+      "doi": "10.1016/j.aca.2026.346280"
+    },
+    "42951041": {
+      "date": "2026-10-29",
+      "title": "Naringin attenuates melamine-induced renal biochemical alterations in rats: Histopathological and immunohistochemical assessment.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951041/",
+      "doi": "10.1016/j.taap.2026.118095"
+    },
+    "42951169": {
+      "date": "2026-10-29",
+      "title": "FTO deficiency mediates ferroptosis to exacerbate cobalt-induced neurotoxicity.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42951169/",
+      "doi": "10.1016/j.envres.2026.126027"
+    },
+    "42952571": {
+      "date": "2026-10-29",
+      "title": "Hypothesis-generating network toxicology analysis of potential molecular convergence between a polystyrene oligomer proxy and papillary thyroid carcinoma.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42952571/",
+      "doi": "10.3389/fendo.2026.1942165"
     }
   },
   "history": [
-    {
-      "date": "2026-08-25",
-      "pmids": [
-        "42635011",
-        "42636583",
-        "42637129",
-        "42636667"
-      ]
-    },
     {
       "date": "2026-08-26",
       "pmids": [
@@ -2826,6 +2852,16 @@
         "42945601",
         "42940024",
         "42945667"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "pmids": [
+        "42949901",
+        "42951528",
+        "42951041",
+        "42951169",
+        "42952571"
       ]
     }
   ]
