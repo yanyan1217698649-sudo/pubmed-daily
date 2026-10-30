@@ -2365,19 +2365,37 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42952571/",
       "doi": "10.3389/fendo.2026.1942165"
+    },
+    "42953643": {
+      "date": "2026-10-30",
+      "title": "Lycium barbarum polysaccharides alleviate cadmium-induced renal injury in ducks by activating the Nrf2-mediated antioxidant defense pathway.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42953643/",
+      "doi": "10.3389/fvets.2026.1998071"
+    },
+    "42955216": {
+      "date": "2026-10-30",
+      "title": "Microglial perturbation in heavy metal-induced neuroinflammation and neurodegeneration: mechanisms, phenotypic plasticity, and therapeutic prospects.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955216/",
+      "doi": "10.1007/s10534-026-00895-7"
+    },
+    "42957043": {
+      "date": "2026-10-30",
+      "title": "Developmental exposure to PBDE-47 induces sex- and organ-specific glucose uptake alterations linked to thyroid hormone disruption in rats: phenotypic parallels to early cardiorenal-metabolic crosstalk.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42957043/",
+      "doi": "10.1016/j.envpol.2026.129440"
+    },
+    "42957038": {
+      "date": "2026-10-30",
+      "title": "Combined effects of LINE-1 DNA methylation and exposure to metals on renal cell carcinoma.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42957038/",
+      "doi": "10.1016/j.envpol.2026.129443"
     }
   },
   "history": [
-    {
-      "date": "2026-08-26",
-      "pmids": [
-        "42637892",
-        "42640683",
-        "42641857",
-        "42639346",
-        "42637987"
-      ]
-    },
     {
       "date": "2026-08-27",
       "pmids": [
@@ -2862,6 +2880,15 @@
         "42951041",
         "42951169",
         "42952571"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "pmids": [
+        "42953643",
+        "42955216",
+        "42957043",
+        "42957038"
       ]
     }
   ]
