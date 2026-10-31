@@ -2393,19 +2393,23 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42957038/",
       "doi": "10.1016/j.envpol.2026.129443"
+    },
+    "42960465": {
+      "date": "2026-10-31",
+      "title": "Association of non-methane volatile organic compound emission burden with chronic kidney disease: integrated epidemiological, transcriptomic and in vitro analyses.",
+      "score": 22,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960465/",
+      "doi": "10.1080/0886022X.2026.2751342"
+    },
+    "42961733": {
+      "date": "2026-10-31",
+      "title": "Microplastics and human health: exposure pathways, toxicological evidence and mitigation strategies.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961733/",
+      "doi": "10.1007/s11356-026-38343-1"
     }
   },
   "history": [
-    {
-      "date": "2026-08-27",
-      "pmids": [
-        "42646063",
-        "42646929",
-        "42647014",
-        "42650284",
-        "42657254"
-      ]
-    },
     {
       "date": "2026-08-28",
       "pmids": [
@@ -2889,6 +2893,13 @@
         "42955216",
         "42957043",
         "42957038"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "pmids": [
+        "42960465",
+        "42961733"
       ]
     }
   ]
