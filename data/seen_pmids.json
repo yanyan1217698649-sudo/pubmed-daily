@@ -2407,19 +2407,44 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961733/",
       "doi": "10.1007/s11356-026-38343-1"
+    },
+    "42931083": {
+      "date": "2026-11-01",
+      "title": "Increased 24 h Urinary Cadmium Excretion Following Intravenous Ca-DTPA: A Retrospective Paired Analysis.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931083/",
+      "doi": "10.3390/jox16060197"
+    },
+    "42931659": {
+      "date": "2026-11-01",
+      "title": "A Follow-Up Study After Reduction in an Excessive Intake of Cadmium from Rice on Changes in Blood and Urinary Cadmium Levels and Renal Tubular Function Among Female Farmers in Cadmium-Polluted Areas in Northern Japan.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931659/",
+      "doi": "10.3390/toxics14100872"
+    },
+    "42931066": {
+      "date": "2026-11-01",
+      "title": "Potential Adverse Effects of Urinary Bisphenol A Concentrations on Renal Function, Gestation, and Newborn Characteristics in Healthy Pregnant Women.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931066/",
+      "doi": "10.3390/jox16060180"
+    },
+    "42933081": {
+      "date": "2026-11-01",
+      "title": "Ferro-Immuno-Structural Axis (FISA): Kidney specific microplastic toxicity via TLR18 centric immunosuppression and iron dyshomeostasis in rainbow trout.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933081/",
+      "doi": "10.1016/j.cbd.2026.102066"
+    },
+    "42942083": {
+      "date": "2026-11-01",
+      "title": "Serum Trace Elements and Concurrent Renal, Hepatic, and Electrolyte Biomarkers: A Secondary Cross-Sectional Analysis of SPES.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42942083/",
+      "doi": "10.3390/ijms27209313"
     }
   },
   "history": [
-    {
-      "date": "2026-08-28",
-      "pmids": [
-        "42662485",
-        "42660439",
-        "42653384",
-        "42661725",
-        "42662802"
-      ]
-    },
     {
       "date": "2026-08-29",
       "pmids": [
@@ -2900,6 +2925,16 @@
       "pmids": [
         "42960465",
         "42961733"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "pmids": [
+        "42931083",
+        "42931659",
+        "42931066",
+        "42933081",
+        "42942083"
       ]
     }
   ]
