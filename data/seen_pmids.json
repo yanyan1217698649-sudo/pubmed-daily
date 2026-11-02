@@ -2442,19 +2442,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42942083/",
       "doi": "10.3390/ijms27209313"
+    },
+    "42967812": {
+      "date": "2026-11-02",
+      "title": "Air pollution exposure and death from different subtypes of kidney diseases: A nationwide, individual-level, case-crossover study in China.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967812/",
+      "doi": "10.1097/CM9.0000000000004318"
     }
   },
   "history": [
-    {
-      "date": "2026-08-29",
-      "pmids": [
-        "42664688",
-        "42664436",
-        "42664556",
-        "42664871",
-        "42662732"
-      ]
-    },
     {
       "date": "2026-08-30",
       "pmids": [
@@ -2935,6 +2932,12 @@
         "42931066",
         "42933081",
         "42942083"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "pmids": [
+        "42967812"
       ]
     }
   ]
