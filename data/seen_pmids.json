@@ -2449,16 +2449,44 @@
       "score": 12,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42967812/",
       "doi": "10.1097/CM9.0000000000004318"
+    },
+    "42972581": {
+      "date": "2026-11-03",
+      "title": "Human epithelial tooth organoids model disrupted amelogenesis following environmental and pharmacological exposures.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972581/",
+      "doi": "10.1186/s13287-026-05206-y"
+    },
+    "42971450": {
+      "date": "2026-11-03",
+      "title": "Does marine litter ingestion represent an underestimated pressure on Yelkouan shearwaters? Insights from GIT marine-litter and tissue PAE analyses in the core breeding range.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971450/",
+      "doi": "10.1016/j.envpol.2026.129427"
+    },
+    "42971402": {
+      "date": "2026-11-03",
+      "title": "Microplastic exposure and obesity-related metabolic dysfunction: A proposed gut microbiota-metabolite framework.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971402/",
+      "doi": "10.1016/j.impact.2026.100652"
+    },
+    "42971049": {
+      "date": "2026-11-03",
+      "title": "Integrated multi-omics and experimental evidence implicate DVL3-associated Wnt/β-catenin signaling in PFHxS-related colorectal cancer progression.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971049/",
+      "doi": "10.1016/j.ecoenv.2026.121006"
+    },
+    "42970922": {
+      "date": "2026-11-03",
+      "title": "Human-relevant hexafluoropropylene oxide dimer acid exposure drives neuronal senescence via KDM6A-mediated CDC42 K27 demethylation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970922/",
+      "doi": "10.1016/j.jhazmat.2026.144095"
     }
   },
   "history": [
-    {
-      "date": "2026-08-30",
-      "pmids": [
-        "42667716",
-        "42667298"
-      ]
-    },
     {
       "date": "2026-08-31",
       "pmids": [
@@ -2938,6 +2966,16 @@
       "date": "2026-11-02",
       "pmids": [
         "42967812"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "pmids": [
+        "42972581",
+        "42971450",
+        "42971402",
+        "42971049",
+        "42970922"
       ]
     }
   ]
