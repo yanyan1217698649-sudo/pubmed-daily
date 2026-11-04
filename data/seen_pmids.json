@@ -2484,19 +2484,30 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970922/",
       "doi": "10.1016/j.jhazmat.2026.144095"
+    },
+    "42975488": {
+      "date": "2026-11-04",
+      "title": "Landscape Fire-Sourced PM2.5 and Cause-Specific Renal Hospitalizations: A Multicountry Two-Stage Time-Series Analysis of 12.5 Million Admissions.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42975488/",
+      "doi": "10.1021/acs.est.6c04677"
+    },
+    "42975441": {
+      "date": "2026-11-04",
+      "title": "Single-Cell Insights into Virus-Microbe Interactions in Emerging Contaminant Degradation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42975441/",
+      "doi": "10.1021/acs.est.6c09032"
+    },
+    "42976599": {
+      "date": "2026-11-04",
+      "title": "Assessing the toxicological effects of di(2-ethylhexyl) phthalate on vascular diseases: Insights from network toxicology, Mendelian randomization, single-cell RNA sequencing, and experimental validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42976599/",
+      "doi": "10.1016/j.tice.2026.104114"
     }
   },
   "history": [
-    {
-      "date": "2026-08-31",
-      "pmids": [
-        "42648532",
-        "42664242",
-        "42648389",
-        "42664870",
-        "42647004"
-      ]
-    },
     {
       "date": "2026-09-01",
       "pmids": [
@@ -2976,6 +2987,14 @@
         "42971402",
         "42971049",
         "42970922"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "pmids": [
+        "42975488",
+        "42975441",
+        "42976599"
       ]
     }
   ]
