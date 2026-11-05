@@ -2505,15 +2505,44 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42976599/",
       "doi": "10.1016/j.tice.2026.104114"
+    },
+    "42981990": {
+      "date": "2026-11-05",
+      "title": "Urinary oxidative DEHP metabolites and advanced cardiovascular-kidney-metabolic syndrome: Evidence from NHANES and mechanistic insights into MECPP-related macrophage inflammatory-glycolytic activation.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42981990/",
+      "doi": "10.1016/j.ecoenv.2026.121017"
+    },
+    "42982404": {
+      "date": "2026-11-05",
+      "title": "Why Lithium Toxicological Reference Values Are Needed for the General Population and Workers?",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42982404/",
+      "doi": "10.1016/j.yrtph.2026.106288"
+    },
+    "42981821": {
+      "date": "2026-11-05",
+      "title": "Molecular mechanism of microplastic intake promoting gastric epithelial cell carcinogenesis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42981821/",
+      "doi": "10.1016/j.tranon.2026.103101"
+    },
+    "42984627": {
+      "date": "2026-11-05",
+      "title": "Integrating multi-omics and machine learning to reveal IL1R2-driven macrophage-fibroblast spatial interactions in polycyclic aromatic hydrocarbon-induced pulmonary fibrosis.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42984627/",
+      "doi": "10.3389/fimmu.2026.1968775"
+    },
+    "42982197": {
+      "date": "2026-11-05",
+      "title": "Placental and lactational transfer of lead across the perinatal continuum: a proof-of-concept extended PBPK model calibrated with longitudinal data from two independent human birth cohorts.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42982197/",
+      "doi": "10.1016/j.taap.2026.118110"
     }
   },
   "history": [
-    {
-      "date": "2026-09-01",
-      "pmids": [
-        "42645049"
-      ]
-    },
     {
       "date": "2026-09-02",
       "pmids": [
@@ -2995,6 +3024,16 @@
         "42975488",
         "42975441",
         "42976599"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "pmids": [
+        "42981990",
+        "42982404",
+        "42981821",
+        "42984627",
+        "42982197"
       ]
     }
   ]
