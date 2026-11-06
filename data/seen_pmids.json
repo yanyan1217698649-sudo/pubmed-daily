@@ -2540,16 +2540,44 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42982197/",
       "doi": "10.1016/j.taap.2026.118110"
+    },
+    "42989331": {
+      "date": "2026-11-06",
+      "title": "Exosomes improved oxidative stress and apoptosis in BPA-induced nephrotoxicity in kidney cells through modulation of Nrf2/Keap1 signaling pathway.",
+      "score": 25,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989331/",
+      "doi": "10.1186/s12938-026-01605-7"
+    },
+    "42985383": {
+      "date": "2026-11-06",
+      "title": "Altered renal aquaporin mRNA expression in early response to arsenic trioxide exposure.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985383/",
+      "doi": "10.1293/tox.2026-0024"
+    },
+    "42988924": {
+      "date": "2026-11-06",
+      "title": "Associations of long-term exposure to air pollution with glucose homeostasis biomarkers and diabetes-related comorbidities in people with recent-onset type 1 and type 2 diabetes.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42988924/",
+      "doi": "10.1007/s00125-026-06908-x"
+    },
+    "42985124": {
+      "date": "2026-11-06",
+      "title": "Biofilm-Controlled Molecular Crosstalk: Nitrogen Fixation, Arsenic Transformation and Antibiotic Resistance.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985124/",
+      "doi": "10.1155/ijm/4307970"
+    },
+    "42987266": {
+      "date": "2026-11-06",
+      "title": "Microplastics and dialysis: a new challenge for green nephrology.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42987266/",
+      "doi": "10.1590/2175-8239-JBN-2026-0094en"
     }
   },
   "history": [
-    {
-      "date": "2026-09-02",
-      "pmids": [
-        "42676651",
-        "42679963"
-      ]
-    },
     {
       "date": "2026-09-03",
       "pmids": [
@@ -3034,6 +3062,16 @@
         "42981821",
         "42984627",
         "42982197"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "pmids": [
+        "42989331",
+        "42985383",
+        "42988924",
+        "42985124",
+        "42987266"
       ]
     }
   ]
