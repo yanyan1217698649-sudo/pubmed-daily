@@ -2575,17 +2575,16 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42987266/",
       "doi": "10.1590/2175-8239-JBN-2026-0094en"
+    },
+    "42994516": {
+      "date": "2026-11-07",
+      "title": "Bisphenol A Aggravates Allergic Rhinitis by Impairing Nasal Epithelial Barrier via AKR1B1 Downregulation: Insights from In Silico and Experimental Evidence.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994516/",
+      "doi": "10.1016/j.cbi.2026.112425"
     }
   },
   "history": [
-    {
-      "date": "2026-09-03",
-      "pmids": [
-        "42686433",
-        "42685547",
-        "42687243"
-      ]
-    },
     {
       "date": "2026-09-04",
       "pmids": [
@@ -3072,6 +3071,12 @@
         "42988924",
         "42985124",
         "42987266"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "pmids": [
+        "42994516"
       ]
     }
   ]
