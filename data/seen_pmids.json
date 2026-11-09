@@ -2589,15 +2589,16 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42997232/",
       "doi": "10.21037/tau-2026-0425"
+    },
+    "42999210": {
+      "date": "2026-11-09",
+      "title": "Arsenic Impairs Critical Cellular Events of Human Cardiac Development Across Differentiation and Metabolic Maturation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42999210/",
+      "doi": "10.64898/2026.10.11.758344"
     }
   },
   "history": [
-    {
-      "date": "2026-09-05",
-      "pmids": [
-        "42697459"
-      ]
-    },
     {
       "date": "2026-09-06",
       "pmids": [
@@ -3081,6 +3082,12 @@
       "date": "2026-11-08",
       "pmids": [
         "42997232"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "pmids": [
+        "42999210"
       ]
     }
   ]
