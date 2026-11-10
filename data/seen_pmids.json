@@ -2596,18 +2596,16 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42999210/",
       "doi": "10.64898/2026.10.11.758344"
+    },
+    "43003686": {
+      "date": "2026-11-10",
+      "title": "Acute Toxicity of Anthracene on Behavior, Blood Biochemistry, and Organ Histopathology in Nile Tilapia, Oreochromis niloticus.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003686/",
+      "doi": "10.1002/jat.70502"
     }
   },
   "history": [
-    {
-      "date": "2026-09-06",
-      "pmids": [
-        "42700663",
-        "42701762",
-        "42701175",
-        "42699267"
-      ]
-    },
     {
       "date": "2026-09-07",
       "pmids": [
@@ -3088,6 +3086,12 @@
       "date": "2026-11-09",
       "pmids": [
         "42999210"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "pmids": [
+        "43003686"
       ]
     }
   ]
