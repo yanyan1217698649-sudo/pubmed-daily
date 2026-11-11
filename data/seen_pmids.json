@@ -2603,16 +2603,37 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003686/",
       "doi": "10.1002/jat.70502"
+    },
+    "43006978": {
+      "date": "2026-11-11",
+      "title": "Microplastics and kidney health: From environmental exposure to renal toxicity.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43006978/",
+      "doi": "10.1177/00368504261506780"
+    },
+    "43008495": {
+      "date": "2026-11-11",
+      "title": "Micro-electric field enhanced biodegradation of refractory organics for strengthening industrial wastewater treatment: microbial electron flow, interspecies interactions, and scale-up.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008495/",
+      "doi": "10.1016/j.watres.2026.127298"
+    },
+    "43004798": {
+      "date": "2026-11-11",
+      "title": "[Association between environmental cadmium exposure and chronic kidney disease: a Meta-analysis].",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004798/",
+      "doi": "10.19813/j.cnki.weishengyanjiu.2026.05.014"
+    },
+    "43004228": {
+      "date": "2026-11-11",
+      "title": "Ambient nitrogen dioxide and composition-specific risk of urolithiasis: a multicenter time-stratified case-crossover study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004228/",
+      "doi": "10.1186/s12889-026-28561-0"
     }
   },
   "history": [
-    {
-      "date": "2026-09-07",
-      "pmids": [
-        "42702610",
-        "42702276"
-      ]
-    },
     {
       "date": "2026-09-09",
       "pmids": [
@@ -3092,6 +3113,15 @@
       "date": "2026-11-10",
       "pmids": [
         "43003686"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "pmids": [
+        "43006978",
+        "43008495",
+        "43004798",
+        "43004228"
       ]
     }
   ]
