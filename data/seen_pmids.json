@@ -2631,16 +2631,30 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43004228/",
       "doi": "10.1186/s12889-026-28561-0"
+    },
+    "43015988": {
+      "date": "2026-11-12",
+      "title": "Exploring the Potential Mechanisms Linking Bisphenol A Exposure to Atrial Fibrillation: An Integrated Multi-Dimensional Analysis from Network Toxicology to In Vivo Validation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43015988/",
+      "doi": "10.1177/15578100261505581"
+    },
+    "43009672": {
+      "date": "2026-11-12",
+      "title": "Analyzing per- and polyfluoroalkyl substances (PFAS) in triple-negative breast cancer (TNBC): an integrative transcriptomic and computational study.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43009672/",
+      "doi": "10.1007/s10565-026-10250-8"
+    },
+    "43017093": {
+      "date": "2026-11-12",
+      "title": "NOS2 as a candidate molecular link between air pollutants and depression: an integrated computational and experimental study.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43017093/",
+      "doi": "10.3389/fcell.2026.1962251"
     }
   },
   "history": [
-    {
-      "date": "2026-09-09",
-      "pmids": [
-        "42708935",
-        "42711729"
-      ]
-    },
     {
       "date": "2026-09-10",
       "pmids": [
@@ -3122,6 +3136,14 @@
         "43008495",
         "43004798",
         "43004228"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "pmids": [
+        "43015988",
+        "43009672",
+        "43017093"
       ]
     }
   ]
