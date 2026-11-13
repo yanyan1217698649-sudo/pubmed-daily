@@ -2652,19 +2652,44 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43017093/",
       "doi": "10.3389/fcell.2026.1962251"
+    },
+    "43018870": {
+      "date": "2026-11-13",
+      "title": "Chronic heavy metal exposure and chronic kidney disease: integrating epidemiology, mechanisms, biomarkers, and interventions.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018870/",
+      "doi": "10.1007/s11255-026-05480-y"
+    },
+    "43019659": {
+      "date": "2026-11-13",
+      "title": "Elucidating organ-specific and cross-organ toxic effects of 6PPDQ in mice via integrated network toxicology and multi-omics analysis.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43019659/",
+      "doi": "10.1016/j.ecoenv.2026.121037"
+    },
+    "43019317": {
+      "date": "2026-11-13",
+      "title": "Dose-dependent hepatorenal toxicity of polystyrene microplastics in BALB/c mice.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43019317/",
+      "doi": "10.1371/journal.pone.0362569"
+    },
+    "43021340": {
+      "date": "2026-11-13",
+      "title": "The cyto-genotoxic potential of dibutyl phthalate promotes DNA damage and cellular stress with altered DNA repair gene expression in Madin-Darby Bovine Kidney (MDBK) cells.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43021340/",
+      "doi": "10.1186/s40360-026-01239-4"
+    },
+    "43020241": {
+      "date": "2026-11-13",
+      "title": "Lactate-driven protein lactylation contributes to aniline-induced hepatic metabolic dysfunction.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43020241/",
+      "doi": "10.1016/j.envpol.2026.129551"
     }
   },
   "history": [
-    {
-      "date": "2026-09-10",
-      "pmids": [
-        "42717112",
-        "42715255",
-        "42715894",
-        "42712133",
-        "42717167"
-      ]
-    },
     {
       "date": "2026-09-11",
       "pmids": [
@@ -3144,6 +3169,16 @@
         "43015988",
         "43009672",
         "43017093"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "pmids": [
+        "43018870",
+        "43019659",
+        "43019317",
+        "43021340",
+        "43020241"
       ]
     }
   ]
