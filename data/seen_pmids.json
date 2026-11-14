@@ -2687,17 +2687,16 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43020241/",
       "doi": "10.1016/j.envpol.2026.129551"
+    },
+    "43027650": {
+      "date": "2026-11-14",
+      "title": "Toxicological Evaluations Following 28-Day Oral Gavage Exposure to Polyethylene Terephthalate Microplastic Particles in Mice.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43027650/",
+      "doi": "10.3390/ijms27219397"
     }
   },
   "history": [
-    {
-      "date": "2026-09-11",
-      "pmids": [
-        "42719741",
-        "42722804",
-        "42719684"
-      ]
-    },
     {
       "date": "2026-09-12",
       "pmids": [
@@ -3179,6 +3178,12 @@
         "43019317",
         "43021340",
         "43020241"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "pmids": [
+        "43027650"
       ]
     }
   ]
