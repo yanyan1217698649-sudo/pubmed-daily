@@ -2694,15 +2694,23 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43027650/",
       "doi": "10.3390/ijms27219397"
+    },
+    "43034648": {
+      "date": "2026-11-15",
+      "title": "Environmental phthalate and chronic kidney disease: Epidemiology, mechanistic pathways, and clinical implications.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43034648/",
+      "doi": "10.1016/j.isci.2026.118139"
+    },
+    "43033798": {
+      "date": "2026-11-15",
+      "title": "Microplastics (MPs)-associated chemical components are associated with hepatocellular carcinoma (HCC) progression via genomic instability and spatial microenvironment remodeling: A study based on integrated multi-omics analysis.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033798/",
+      "doi": "10.1016/j.bbrc.2026.154872"
     }
   },
   "history": [
-    {
-      "date": "2026-09-12",
-      "pmids": [
-        "42724844"
-      ]
-    },
     {
       "date": "2026-09-13",
       "pmids": [
@@ -3184,6 +3192,13 @@
       "date": "2026-11-14",
       "pmids": [
         "43027650"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "pmids": [
+        "43034648",
+        "43033798"
       ]
     }
   ]
