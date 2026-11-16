@@ -2708,17 +2708,16 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033798/",
       "doi": "10.1016/j.bbrc.2026.154872"
+    },
+    "43037284": {
+      "date": "2026-11-16",
+      "title": "Multidimensional Deciphering Underlying Effects of PFOA Exposure in Ulcerative Colitis: From Epidemiological Insights to Toxicological Mechanisms.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037284/",
+      "doi": "10.1021/acs.chemrestox.6c00252"
     }
   },
   "history": [
-    {
-      "date": "2026-09-13",
-      "pmids": [
-        "42731774",
-        "42731388",
-        "42730965"
-      ]
-    },
     {
       "date": "2026-09-14",
       "pmids": [
@@ -3199,6 +3198,12 @@
       "pmids": [
         "43034648",
         "43033798"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "pmids": [
+        "43037284"
       ]
     }
   ]
