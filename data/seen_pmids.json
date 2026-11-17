@@ -2715,15 +2715,30 @@
       "score": 14,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43037284/",
       "doi": "10.1021/acs.chemrestox.6c00252"
+    },
+    "43040008": {
+      "date": "2026-11-17",
+      "title": "Epigenetics in inflammatory bowel disease: from mechanistic insights to personalized therapeutic strategies.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43040008/",
+      "doi": "10.1038/s41575-026-01275-9"
+    },
+    "43038899": {
+      "date": "2026-11-17",
+      "title": "Plasma concentrations of perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA) and their associations with selected clinical biochemical markers in residents living near a petrochemical industrial estate in Thailand.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43038899/",
+      "doi": "10.1016/j.ijheh.2026.114941"
+    },
+    "43038880": {
+      "date": "2026-11-17",
+      "title": "Polystyrene nanoplastics induce size-associated intestinal barrier dysfunction and immune activation in human organoid models.",
+      "score": 7,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43038880/",
+      "doi": "10.1016/j.ecoenv.2026.121059"
     }
   },
   "history": [
-    {
-      "date": "2026-09-14",
-      "pmids": [
-        "42713826"
-      ]
-    },
     {
       "date": "2026-09-15",
       "pmids": [
@@ -3204,6 +3219,14 @@
       "date": "2026-11-16",
       "pmids": [
         "43037284"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "pmids": [
+        "43040008",
+        "43038899",
+        "43038880"
       ]
     }
   ]
