@@ -2736,19 +2736,44 @@
       "score": 7,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43038880/",
       "doi": "10.1016/j.ecoenv.2026.121059"
+    },
+    "43044656": {
+      "date": "2026-11-18",
+      "title": "Chronic Low-Dose Dietary Toxicant Exposure: An Integrative Review of the Framework Linking Food Contaminants, Inflammation, and Non-Communicable Diseases.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044656/",
+      "doi": "10.1002/jat.70503"
+    },
+    "43043524": {
+      "date": "2026-11-18",
+      "title": "Associations of mixed exposure to metals, organophosphate metabolites, and glyphosate with amino acid profiles and renal function among solar greenhouse workers.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043524/",
+      "doi": "10.1007/s00420-026-02245-z"
+    },
+    "43044182": {
+      "date": "2026-11-18",
+      "title": "Molecular targets and potential pathways associated with DEHP-exacerbated atherosclerosis: A combined bioinformatics and experimental study.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044182/",
+      "doi": "10.1016/j.ecoenv.2026.121000"
+    },
+    "43047782": {
+      "date": "2026-11-18",
+      "title": "Machine learning prediction model for respiratory failure in patients with asthma.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43047782/",
+      "doi": "10.3389/frai.2026.1966982"
+    },
+    "43049233": {
+      "date": "2026-11-18",
+      "title": "Integrated Multi-Platform Profiling of Serum Bisphenol A and Circulating microRNAs With Comprehensive Biochemical Characterization Across Leukemia Subtypes.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43049233/",
+      "doi": "10.1002/jat.70512"
     }
   },
   "history": [
-    {
-      "date": "2026-09-15",
-      "pmids": [
-        "42737799",
-        "42735479",
-        "42737786",
-        "42737676",
-        "42734623"
-      ]
-    },
     {
       "date": "2026-09-16",
       "pmids": [
@@ -3227,6 +3252,16 @@
         "43040008",
         "43038899",
         "43038880"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "pmids": [
+        "43044656",
+        "43043524",
+        "43044182",
+        "43047782",
+        "43049233"
       ]
     }
   ]
