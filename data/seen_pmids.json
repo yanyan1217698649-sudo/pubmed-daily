@@ -2771,19 +2771,30 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43049233/",
       "doi": "10.1002/jat.70512"
+    },
+    "43050000": {
+      "date": "2026-11-19",
+      "title": "Risk of exposure to heavy metals and hepatic renal profile in children from a rural Peruvian community.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43050000/",
+      "doi": "10.1007/s10661-026-16163-7"
+    },
+    "43050294": {
+      "date": "2026-11-19",
+      "title": "Novel Molecular Mechanisms of Dioctyl Phthalate-Induced Pulmonary Fibrosis: Insights From Network Toxicology, Single-Cell RNA Sequencing, and In Vitro Studies.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43050294/",
+      "doi": "10.1096/fj.202602992R"
+    },
+    "43054445": {
+      "date": "2026-11-19",
+      "title": "Orthogonal elemental readout for integrated profiling of metallodrug-protein interactions and protein regulation.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43054445/",
+      "doi": "10.1039/d6sc06939h"
     }
   },
   "history": [
-    {
-      "date": "2026-09-16",
-      "pmids": [
-        "42744603",
-        "42744184",
-        "42744665",
-        "42743802",
-        "42741553"
-      ]
-    },
     {
       "date": "2026-09-17",
       "pmids": [
@@ -3262,6 +3273,14 @@
         "43044182",
         "43047782",
         "43049233"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "pmids": [
+        "43050000",
+        "43050294",
+        "43054445"
       ]
     }
   ]
