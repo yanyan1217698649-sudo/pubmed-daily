@@ -2792,16 +2792,30 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43054445/",
       "doi": "10.1039/d6sc06939h"
+    },
+    "43060013": {
+      "date": "2026-11-20",
+      "title": "Multi-modal in situ profiling of human cells using the AVITI24 platform characterizes single-cell responses to acute stress.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43060013/",
+      "doi": "10.64898/2026.10.28.762240"
+    },
+    "43056011": {
+      "date": "2026-11-20",
+      "title": "From gingiva to brain: cadmium promotes stroke via vascular mechanisms in periodontitis while vitamin k protects.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43056011/",
+      "doi": "10.1007/s10565-026-10255-3"
+    },
+    "43057160": {
+      "date": "2026-11-20",
+      "title": "Putative microplastic particles and multiorgan histopathological alterations in Sparus aurata from the İzmir coastal area of the Aegean Sea.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43057160/",
+      "doi": "10.1016/j.marpolbul.2026.120603"
     }
   },
   "history": [
-    {
-      "date": "2026-09-17",
-      "pmids": [
-        "42749352",
-        "42749109"
-      ]
-    },
     {
       "date": "2026-09-18",
       "pmids": [
@@ -3281,6 +3295,14 @@
         "43050000",
         "43050294",
         "43054445"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "pmids": [
+        "43060013",
+        "43056011",
+        "43057160"
       ]
     }
   ]
