@@ -2813,15 +2813,37 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43057160/",
       "doi": "10.1016/j.marpolbul.2026.120603"
+    },
+    "43065558": {
+      "date": "2026-11-21",
+      "title": "Single-cell analysis reveals smoke-induced neutrophil-macrophage crosstalk as a targetable mechanism in COPD pathogenesis.",
+      "score": 15,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065558/",
+      "doi": "10.3389/fimmu.2026.2003457"
+    },
+    "43063561": {
+      "date": "2026-11-21",
+      "title": "PFAS exposure and Clinical health Indicators in primary Care: A Registry-Based study.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063561/",
+      "doi": "10.1016/j.envint.2026.110612"
+    },
+    "43065562": {
+      "date": "2026-11-21",
+      "title": "Integrative multi-omics, machine learning, computational toxicology, and experimental validation reveal PFAS-associated immune-inflammatory signatures in chronic obstructive pulmonary disease.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065562/",
+      "doi": "10.3389/fimmu.2026.1965629"
+    },
+    "43063831": {
+      "date": "2026-11-21",
+      "title": "Long-term O3 and PM2.5 exposure and dynamic progression of cardiovascular-kidney-metabolic syndrome: A longitudinal cohort study.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063831/",
+      "doi": "10.1016/j.ecoenv.2026.121085"
     }
   },
   "history": [
-    {
-      "date": "2026-09-18",
-      "pmids": [
-        "42752549"
-      ]
-    },
     {
       "date": "2026-09-19",
       "pmids": [
@@ -3303,6 +3325,15 @@
         "43060013",
         "43056011",
         "43057160"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "pmids": [
+        "43065558",
+        "43063561",
+        "43065562",
+        "43063831"
       ]
     }
   ]
