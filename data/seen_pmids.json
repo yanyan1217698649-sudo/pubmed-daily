@@ -2841,19 +2841,23 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43063831/",
       "doi": "10.1016/j.ecoenv.2026.121085"
+    },
+    "43067440": {
+      "date": "2026-11-22",
+      "title": "Boric acid attenuates bisphenol A-induced hepatorenal damage via modulation of lipid profile, inflammation, oxidative stress, and apoptosis: In vivo, in silico, and network pharmacological analysis.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067440/",
+      "doi": "10.1016/j.taap.2026.118125"
+    },
+    "43067087": {
+      "date": "2026-11-22",
+      "title": "Basin-scale assessment of environmental and human health risks of melamine as a persistent, mobile, and toxic substance.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067087/",
+      "doi": "10.1016/j.envint.2026.110610"
     }
   },
   "history": [
-    {
-      "date": "2026-09-19",
-      "pmids": [
-        "42758764",
-        "42756606",
-        "42757645",
-        "42759461",
-        "42756293"
-      ]
-    },
     {
       "date": "2026-09-20",
       "pmids": [
@@ -3334,6 +3338,13 @@
         "43063561",
         "43065562",
         "43063831"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "pmids": [
+        "43067440",
+        "43067087"
       ]
     }
   ]
