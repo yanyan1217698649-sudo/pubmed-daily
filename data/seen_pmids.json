@@ -2855,16 +2855,16 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43067087/",
       "doi": "10.1016/j.envint.2026.110610"
+    },
+    "43069715": {
+      "date": "2026-11-23",
+      "title": "Bisphenol A and Its Analogues in Hypertension: Molecular Mechanisms, Epigenetic Regulation, and Therapeutic Perspectives-A Narrative Review.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43069715/",
+      "doi": "10.1002/jat.70510"
     }
   },
   "history": [
-    {
-      "date": "2026-09-20",
-      "pmids": [
-        "42762425",
-        "42760421"
-      ]
-    },
     {
       "date": "2026-09-21",
       "pmids": [
@@ -3345,6 +3345,12 @@
       "pmids": [
         "43067440",
         "43067087"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "pmids": [
+        "43069715"
       ]
     }
   ]
