@@ -2862,17 +2862,44 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43069715/",
       "doi": "10.1002/jat.70510"
+    },
+    "43071286": {
+      "date": "2026-11-24",
+      "title": "Morphophysiological Indices and Hepatic Metal Profiles in the Green Toad (Bufotes sitibundus) Along an Agricultural-Industrial Pollution Gradient.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43071286/",
+      "doi": "10.1007/s12011-026-05362-5"
+    },
+    "43074006": {
+      "date": "2026-11-24",
+      "title": "Integration of multi-omics and network toxicology suggests potential mechanisms linking artificial sweeteners to chronic kidney disease.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43074006/",
+      "doi": "10.1186/s40360-026-01201-4"
+    },
+    "43076755": {
+      "date": "2026-11-24",
+      "title": "Organoid-Based Strategy for Exploration of Cancer-Related Early Signatures of Low-Dose Methylmercury Exposure.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43076755/",
+      "doi": "10.1021/acs.est.6c10253"
+    },
+    "43074928": {
+      "date": "2026-11-24",
+      "title": "The predictive dermatome: a technical framework for spatial AI mapping of molecular skin aging.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43074928/",
+      "doi": "10.3389/fdgth.2026.1764342"
+    },
+    "43073374": {
+      "date": "2026-11-24",
+      "title": "Development of a human toxicokinetic model of glyphosate for interpreting biomonitoring data.",
+      "score": 10,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073374/",
+      "doi": "10.1007/s00204-026-04633-3"
     }
   },
   "history": [
-    {
-      "date": "2026-09-21",
-      "pmids": [
-        "42755451",
-        "42759910",
-        "42759590"
-      ]
-    },
     {
       "date": "2026-09-22",
       "pmids": [
@@ -3351,6 +3378,16 @@
       "date": "2026-11-23",
       "pmids": [
         "43069715"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "pmids": [
+        "43071286",
+        "43074006",
+        "43076755",
+        "43074928",
+        "43073374"
       ]
     }
   ]
