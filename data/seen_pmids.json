@@ -2897,15 +2897,44 @@
       "score": 10,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073374/",
       "doi": "10.1007/s00204-026-04633-3"
+    },
+    "43078337": {
+      "date": "2026-11-25",
+      "title": "Modulation of redox homeostasis, inflammation and endoplasmic reticulum stress mediate the protective effect of nifuroxazide against bisphenol A-induced kidney injury.",
+      "score": 20,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078337/",
+      "doi": "10.1016/j.lfs.2026.124806"
+    },
+    "43077148": {
+      "date": "2026-11-25",
+      "title": "Zinc Protects Against Bisphenol F-Induced Renal Dysfunction via Modulation of XO/UA-Nrf2/NF-κB Signaling and Mitochondrial Dysfunction.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077148/",
+      "doi": "10.1007/s12011-026-05432-8"
+    },
+    "43079817": {
+      "date": "2026-11-25",
+      "title": "[Successful treatment of a case of acute arsine poisoning via plasma exchange].",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43079817/",
+      "doi": "10.3760/cma.j.cn121094-20250605-00226"
+    },
+    "43078186": {
+      "date": "2026-11-25",
+      "title": "Exploring the occurrence of microplastic translocation in marine vertebrates with guidelines for harmonisation.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43078186/",
+      "doi": "10.1016/j.envpol.2026.129613"
+    },
+    "43081296": {
+      "date": "2026-11-25",
+      "title": "Micro/Nanoplastics and Plastic-Associated Chemicals as Candidate Developmental Neuroimmune Disruptors in Autism.",
+      "score": 8,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43081296/",
+      "doi": "10.3390/pathophysiology33040090"
     }
   },
   "history": [
-    {
-      "date": "2026-09-22",
-      "pmids": [
-        "42766214"
-      ]
-    },
     {
       "date": "2026-09-23",
       "pmids": [
@@ -3388,6 +3417,16 @@
         "43076755",
         "43074928",
         "43073374"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "pmids": [
+        "43078337",
+        "43077148",
+        "43079817",
+        "43078186",
+        "43081296"
       ]
     }
   ]
