@@ -2932,18 +2932,44 @@
       "score": 8,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43081296/",
       "doi": "10.3390/pathophysiology33040090"
+    },
+    "43090039": {
+      "date": "2026-11-26",
+      "title": "Potential Renoprotective Effects of Honokiol.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43090039/",
+      "doi": "10.3390/biom16111649"
+    },
+    "43094954": {
+      "date": "2026-11-26",
+      "title": "Bisphenol a is associated with ovarian cancer chemoresistance via ecmCAF-mediated stromal remodeling: an integrative multi-omics study.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094954/",
+      "doi": "10.3389/fphar.2026.1988214"
+    },
+    "43093597": {
+      "date": "2026-11-26",
+      "title": "Intercellular Junctions as Targets of Metal Toxicity: A Narrative Review.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43093597/",
+      "doi": "10.3390/molecules31224200"
+    },
+    "43084157": {
+      "date": "2026-11-26",
+      "title": "Cadmium and Inorganic Lead in Atherosclerotic Vascular Injury: Distinct Upstream Mechanisms and Convergent Vascular Responses.",
+      "score": 12,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43084157/",
+      "doi": "10.1007/s12012-026-10235-3"
+    },
+    "43095924": {
+      "date": "2026-11-26",
+      "title": "Hydrocarbon Extraction and Risk to Groundwater in Pennsylvania: Part 2. An Analysis of Water Quality in the Oldest Hydrocarbon Basin in the United States.",
+      "score": 11,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095924/",
+      "doi": ""
     }
   },
   "history": [
-    {
-      "date": "2026-09-23",
-      "pmids": [
-        "42771981",
-        "42771980",
-        "42773773",
-        "42770103"
-      ]
-    },
     {
       "date": "2026-09-24",
       "pmids": [
@@ -3427,6 +3453,16 @@
         "43079817",
         "43078186",
         "43081296"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "pmids": [
+        "43090039",
+        "43094954",
+        "43093597",
+        "43084157",
+        "43095924"
       ]
     }
   ]
