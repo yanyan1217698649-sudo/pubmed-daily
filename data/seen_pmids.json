@@ -2967,17 +2967,44 @@
       "score": 11,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43095924/",
       "doi": ""
+    },
+    "43098108": {
+      "date": "2026-11-27",
+      "title": "MAPK1 signaling activation drives renal injury and dysfunction following subchronic BPP exposure in mice.",
+      "score": 17,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098108/",
+      "doi": "10.1016/j.ecoenv.2026.121106"
+    },
+    "43098501": {
+      "date": "2026-11-27",
+      "title": "Environmental Stress and Metabolic Reprogramming: Mechanistic Links to Endocrine and Metabolic Disease.",
+      "score": 16,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098501/",
+      "doi": "10.1016/j.fct.2026.116473"
+    },
+    "43099228": {
+      "date": "2026-11-27",
+      "title": "An integrative network toxicology and single-cell analysis implicates a potential myeloid-centered plaque remodeling axis in bisphenol A-related atherosclerosis.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43099228/",
+      "doi": "10.1007/s11030-026-11790-1"
+    },
+    "43098111": {
+      "date": "2026-11-27",
+      "title": "Mono(2-ethylhexyl) phthalate may promote lung adenocarcinoma stromal remodeling through ADARB1-dependent fibroblast activation: Integrated bioinformatic, biophysical and cellular evidence.",
+      "score": 14,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43098111/",
+      "doi": "10.1016/j.ecoenv.2026.121079"
+    },
+    "43101079": {
+      "date": "2026-11-27",
+      "title": "Activity-Guided Development of a Broccoli-Rich Mixed Vegetable Extract: Effects on Cadmium-Associated Oxidative Injury and Tissue Cadmium Concentrations.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43101079/",
+      "doi": "10.1002/fsn3.72625"
     }
   },
   "history": [
-    {
-      "date": "2026-09-24",
-      "pmids": [
-        "42775181",
-        "42775203",
-        "42777797"
-      ]
-    },
     {
       "date": "2026-09-25",
       "pmids": [
@@ -3463,6 +3490,16 @@
         "43093597",
         "43084157",
         "43095924"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "pmids": [
+        "43098108",
+        "43098501",
+        "43099228",
+        "43098111",
+        "43101079"
       ]
     }
   ]
