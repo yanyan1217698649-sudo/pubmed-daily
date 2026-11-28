@@ -3002,19 +3002,23 @@
       "score": 9,
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43101079/",
       "doi": "10.1002/fsn3.72625"
+    },
+    "43103345": {
+      "date": "2026-11-28",
+      "title": "TIMP1 links air pollutant exposure to clear cell renal cell carcinoma progression through pericyte-mediated paracrine signaling.",
+      "score": 13,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43103345/",
+      "doi": "10.1016/j.ecoenv.2026.121103"
+    },
+    "43103743": {
+      "date": "2026-11-28",
+      "title": "The association of air pollution with death and deterioration on the United States transplant waiting list.",
+      "score": 9,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43103743/",
+      "doi": "10.1016/j.ajt.2026.11.019"
     }
   },
   "history": [
-    {
-      "date": "2026-09-25",
-      "pmids": [
-        "42785617",
-        "42781557",
-        "42786455",
-        "42783608",
-        "42782210"
-      ]
-    },
     {
       "date": "2026-09-26",
       "pmids": [
@@ -3500,6 +3504,13 @@
         "43099228",
         "43098111",
         "43101079"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "pmids": [
+        "43103345",
+        "43103743"
       ]
     }
   ]
